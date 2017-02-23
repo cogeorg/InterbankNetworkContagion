@@ -1,0 +1,26 @@
+10/26/2012 09:50:36 START logging for test bank__update_maturity in run: tests/environments/test_stand_bank.xml
+10/26/2012 09:50:36   environment file read: tests/environments/test_stand_bank.xml
+10/26/2012 09:50:36     ERROR: number of configuration files in tests/banks/stand_bank/ (=0) does not match numBanks (=3)
+10/26/2012 09:50:36   banks read from directory: tests/banks/stand_bank/
+10/26/2012 09:50:36   read network of contracts: tests/networks/full-3_banks
+10/26/2012 09:50:36     ERROR: add_edge failed, from_node=nan, to_node=nan
+10/26/2012 09:50:36     ERROR: add_edge failed, from_node=nan, to_node=nan
+10/26/2012 09:50:36     ERROR: add_edge failed, from_node=nan, to_node=nan
+10/26/2012 09:50:36     ERROR: add_edge failed, from_node=nan, to_node=nan
+10/26/2012 09:50:36     ERROR: add_edge failed, from_node=nan, to_node=nan
+10/26/2012 09:50:36     ERROR: add_edge failed, from_node=nan, to_node=nan
+10/26/2012 09:50:36   created the network of contracts with 0 nodes and 0 links
+10/26/2012 09:50:36   created the network of exposures with 0 nodes
+10/26/2012 10:24:44 START logging for test bank__update_maturity in run: tests/environments/test_stand_bank.xml
+10/26/2012 10:24:44   environment file read: tests/environments/test_stand_bank.xml
+10/26/2012 10:24:44     ERROR: number of configuration files in tests/banks/stand_bank/ (=0) does not match numBanks (=3)
+10/26/2012 10:24:44   banks read from directory: tests/banks/stand_bank/
+10/26/2012 10:24:44   read network of contracts: tests/networks/full-3_banks
+10/26/2012 10:24:44     ERROR: add_edge failed, from_node=nan, to_node=nan
+10/26/2012 10:24:44     ERROR: add_edge failed, from_node=nan, to_node=nan
+10/26/2012 10:24:44     ERROR: add_edge failed, from_node=nan, to_node=nan
+10/26/2012 10:24:44     ERROR: add_edge failed, from_node=nan, to_node=nan
+10/26/2012 10:24:44     ERROR: add_edge failed, from_node=nan, to_node=nan
+10/26/2012 10:24:44     ERROR: add_edge failed, from_node=nan, to_node=nan
+10/26/2012 10:24:44   created the network of contracts with 0 nodes and 0 links
+10/26/2012 10:24:44   created the network of exposures with 0 nodes

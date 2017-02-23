@@ -1,0 +1,68 @@
+10/30/2012 13:57:42 START logging for run: environments/test10.xml
+10/30/2012 13:57:42   environment file read: environments/test10.xml
+10/30/2012 13:57:42   banks read from directory: banks/10/
+10/30/2012 13:57:42   read network of contracts: networks/network-random-10-0.8
+10/30/2012 13:57:42   created the network of contracts with 10 nodes and 69 links
+10/30/2012 13:57:42   created the network of exposures with 10 nodes
+10/30/2012 13:57:42   measurement started...
+10/30/2012 13:57:42   STARTED with run 0
+10/30/2012 13:57:42   environment file read: environments/test10.xml
+10/30/2012 13:57:42   banks read from directory: banks/10/
+10/30/2012 13:57:42   read network of contracts: networks/network-random-10-0.8
+10/30/2012 13:57:42   created the network of contracts with 10 nodes and 69 links
+10/30/2012 13:57:42   created the network of exposures with 10 nodes
+10/30/2012 13:57:44   DONE
+10/30/2012 13:57:44   ....measurement finished
+10/30/2012 13:57:44 FINISHED logging for run: environments/test10.xml 
+
+10/30/2012 13:58:50 START logging for run: environments/test10.xml
+10/30/2012 13:58:50   environment file read: environments/test10.xml
+10/30/2012 13:58:50   banks read from directory: banks/10/
+10/30/2012 13:58:50   read network of contracts: networks/network-random-10-0.8
+10/30/2012 13:58:50   created the network of contracts with 10 nodes and 69 links
+10/30/2012 13:58:50   created the network of exposures with 10 nodes
+10/30/2012 13:58:50   measurement started...
+10/30/2012 13:58:50   STARTED with run 0
+10/30/2012 13:58:50   environment file read: environments/test10.xml
+10/30/2012 13:58:50   banks read from directory: banks/10/
+10/30/2012 13:58:50   read network of contracts: networks/network-random-10-0.8
+10/30/2012 13:58:50   created the network of contracts with 10 nodes and 69 links
+10/30/2012 13:58:50   created the network of exposures with 10 nodes
+10/30/2012 13:58:51   DONE
+10/30/2012 13:58:51   ....measurement finished
+10/30/2012 13:58:51 FINISHED logging for run: environments/test10.xml 
+
+10/30/2012 14:02:57 START logging for run: environments/test10.xml
+10/30/2012 14:02:57   environment file read: environments/test10.xml
+10/30/2012 14:02:57   banks read from directory: banks/10/
+10/30/2012 14:02:57   read network of contracts: networks/network-random-10-0.8
+10/30/2012 14:02:57   created the network of contracts with 10 nodes and 69 links
+10/30/2012 14:02:57   created the network of exposures with 10 nodes
+10/30/2012 14:02:57   measurement started...
+10/30/2012 14:02:57   STARTED with run 0
+10/30/2012 14:02:57   environment file read: environments/test10.xml
+10/30/2012 14:02:57   banks read from directory: banks/10/
+10/30/2012 14:02:57   read network of contracts: networks/network-random-10-0.8
+10/30/2012 14:02:57   created the network of contracts with 10 nodes and 69 links
+10/30/2012 14:02:57   created the network of exposures with 10 nodes
+10/30/2012 14:02:59   DONE
+10/30/2012 14:02:59   ....measurement finished
+10/30/2012 14:02:59 FINISHED logging for run: environments/test10.xml 
+
+12/09/2012 21:59:48 START logging for run: environments/test10.xml
+12/09/2012 21:59:48   environment file read: environments/test10.xml
+12/09/2012 21:59:48   banks read from directory: banks/10/
+12/09/2012 21:59:48   read network of contracts: networks/network-random-10-0.8
+12/09/2012 21:59:48   created the network of contracts with 10 nodes and 69 links
+12/09/2012 21:59:48   created the network of exposures with 10 nodes
+12/09/2012 21:59:48   measurement started...
+12/09/2012 21:59:48   STARTED with run 0
+12/09/2012 21:59:48   environment file read: environments/test10.xml
+12/09/2012 21:59:48   banks read from directory: banks/10/
+12/09/2012 21:59:48   read network of contracts: networks/network-random-10-0.8
+12/09/2012 21:59:48   created the network of contracts with 10 nodes and 69 links
+12/09/2012 21:59:48   created the network of exposures with 10 nodes
+12/09/2012 21:59:50   DONE
+12/09/2012 21:59:50   ....measurement finished
+12/09/2012 21:59:50 FINISHED logging for run: environments/test10.xml 
+

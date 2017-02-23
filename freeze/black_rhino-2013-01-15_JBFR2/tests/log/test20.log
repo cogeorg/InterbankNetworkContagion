@@ -1,0 +1,692 @@
+07/25/2012 09:57:25 START logging for run: test_environments/test20.xml
+07/25/2012 09:57:37 START logging for run: environments/test20.xml
+07/25/2012 09:57:37   environment file read: environments/test20.xml
+07/25/2012 10:03:11 START logging for run: environments/test20.xml
+07/25/2012 10:03:11   environment file read: environments/test20.xml
+07/25/2012 10:03:11   banks read from directory: banks/20/
+07/25/2012 10:03:11   read network of contracts: networks/network-random-20-1.0
+07/25/2012 10:03:11   created the network of contracts with 20 nodes and 380 links
+07/25/2012 10:03:11   created the network of exposures with 20 nodes
+07/25/2012 10:03:11   measurement started...
+07/25/2012 10:03:11   environment file read: environments/test20.xml
+07/25/2012 10:03:11   banks read from directory: banks/20/
+07/25/2012 10:03:11   read network of contracts: networks/network-random-20-1.0
+07/25/2012 10:03:11   created the network of contracts with 20 nodes and 380 links
+07/25/2012 10:03:11   created the network of exposures with 20 nodes
+07/25/2012 10:03:14 
+07/25/2012 10:03:14   ....measurement finished
+07/25/2012 10:03:14 FINISHED logging for run: environments/test20.xml 
+
+07/25/2012 10:05:12 START logging for run: environments/test20.xml
+07/25/2012 10:05:12   environment file read: environments/test20.xml
+07/25/2012 10:05:12   banks read from directory: banks/20/
+07/25/2012 10:05:12   read network of contracts: networks/network-random-20-1.0
+07/25/2012 10:05:12   created the network of contracts with 20 nodes and 380 links
+07/25/2012 10:05:12   created the network of exposures with 20 nodes
+07/25/2012 10:05:12   measurement started...
+07/25/2012 10:05:12   environment file read: environments/test20.xml
+07/25/2012 10:05:12   banks read from directory: banks/20/
+07/25/2012 10:05:12   read network of contracts: networks/network-random-20-1.0
+07/25/2012 10:05:12   created the network of contracts with 20 nodes and 380 links
+07/25/2012 10:05:12   created the network of exposures with 20 nodes
+07/25/2012 10:05:15 
+07/25/2012 10:05:15   ....measurement finished
+07/25/2012 10:05:15 FINISHED logging for run: environments/test20.xml 
+
+07/25/2012 10:39:42 START logging for run: environments/test20.xml
+07/25/2012 10:39:42   environment file read: environments/test20.xml
+07/25/2012 10:39:42   banks read from directory: banks/20/
+07/25/2012 10:39:42   read network of contracts: networks/network-random-20-1.0
+07/25/2012 10:39:43   created the network of contracts with 20 nodes and 380 links
+07/25/2012 10:39:43   created the network of exposures with 20 nodes
+07/25/2012 10:39:43   measurement started...
+07/25/2012 10:39:43   environment file read: environments/test20.xml
+07/25/2012 10:39:43   banks read from directory: banks/20/
+07/25/2012 10:39:43   read network of contracts: networks/network-random-20-1.0
+07/25/2012 10:39:43   created the network of contracts with 20 nodes and 380 links
+07/25/2012 10:39:43   created the network of exposures with 20 nodes
+07/25/2012 10:39:48     time: 185: <bank 7 is insolvent: 0.0362168734241 < 0.08>
+07/25/2012 10:39:48 
+07/25/2012 10:39:48   ....measurement finished
+07/25/2012 10:39:48 FINISHED logging for run: environments/test20.xml 
+
+07/25/2012 10:41:56 START logging for run: environments/test20.xml
+07/25/2012 10:41:56   environment file read: environments/test20.xml
+07/25/2012 10:41:56   banks read from directory: banks/20/
+07/25/2012 10:41:56   read network of contracts: networks/network-random-20-1.0
+07/25/2012 10:41:56   created the network of contracts with 20 nodes and 380 links
+07/25/2012 10:41:56   created the network of exposures with 20 nodes
+07/25/2012 10:41:56   measurement started...
+07/25/2012 10:41:56   environment file read: environments/test20.xml
+07/25/2012 10:41:56   banks read from directory: banks/20/
+07/25/2012 10:41:56   read network of contracts: networks/network-random-20-1.0
+07/25/2012 10:41:56   created the network of contracts with 20 nodes and 380 links
+07/25/2012 10:41:56   created the network of exposures with 20 nodes
+07/25/2012 10:41:56     time: 7: <bank 14 is insolvent: 0.0 < 0.08>
+07/25/2012 10:41:59     time: 105: <bank 16 is insolvent: 0.0 < 0.08>
+07/25/2012 10:42:01 
+07/25/2012 10:42:01   ....measurement finished
+07/25/2012 10:42:01 FINISHED logging for run: environments/test20.xml 
+
+07/25/2012 10:42:07 START logging for run: environments/test20.xml
+07/25/2012 10:42:07   environment file read: environments/test20.xml
+07/25/2012 10:42:07   banks read from directory: banks/20/
+07/25/2012 10:42:07   read network of contracts: networks/network-random-20-1.0
+07/25/2012 10:42:07   created the network of contracts with 20 nodes and 380 links
+07/25/2012 10:42:07   created the network of exposures with 20 nodes
+07/25/2012 10:42:07   measurement started...
+07/25/2012 10:42:07   environment file read: environments/test20.xml
+07/25/2012 10:42:07   banks read from directory: banks/20/
+07/25/2012 10:42:07   read network of contracts: networks/network-random-20-1.0
+07/25/2012 10:42:07   created the network of contracts with 20 nodes and 380 links
+07/25/2012 10:42:07   created the network of exposures with 20 nodes
+07/25/2012 10:42:07     time: 18: <bank 10 is insolvent: 0.0294556603797 < 0.08>
+07/25/2012 10:42:08     time: 55: <bank 2 is insolvent: 0.0 < 0.08>
+07/25/2012 10:42:08     time: 58: <bank 9 is insolvent: 0.0 < 0.08>
+07/25/2012 10:42:09     time: 76: <bank 1 is insolvent: 0.0 < 0.08>
+07/25/2012 10:42:10     time: 104: <bank 18 is insolvent: 0.0327906539322 < 0.08>
+07/25/2012 10:42:10     time: 105: <bank 11 is insolvent: 0.0 < 0.08>
+07/25/2012 10:42:11     time: 135: <bank 15 is insolvent: 0.0 < 0.08>
+07/25/2012 10:42:13 
+07/25/2012 10:42:13   ....measurement finished
+07/25/2012 10:42:13 FINISHED logging for run: environments/test20.xml 
+
+07/25/2012 10:42:35 START logging for run: environments/test20.xml
+07/25/2012 10:42:35   environment file read: environments/test20.xml
+07/25/2012 10:42:35   banks read from directory: banks/20/
+07/25/2012 10:42:35   read network of contracts: networks/network-random-20-1.0
+07/25/2012 10:42:35   created the network of contracts with 20 nodes and 380 links
+07/25/2012 10:42:35   created the network of exposures with 20 nodes
+07/25/2012 10:42:35   measurement started...
+07/25/2012 10:42:35   environment file read: environments/test20.xml
+07/25/2012 10:42:35   banks read from directory: banks/20/
+07/25/2012 10:42:35   read network of contracts: networks/network-random-20-1.0
+07/25/2012 10:42:35   created the network of contracts with 20 nodes and 380 links
+07/25/2012 10:42:35   created the network of exposures with 20 nodes
+07/25/2012 10:42:36     time: 23: <bank 13 is insolvent: 0.0 < 0.08>
+07/25/2012 10:42:49 START logging for run: environments/test20.xml
+07/25/2012 10:42:49   environment file read: environments/test20.xml
+07/25/2012 10:42:49   banks read from directory: banks/20/
+07/25/2012 10:42:49   read network of contracts: networks/network-random-20-1.0
+07/25/2012 10:42:49   created the network of contracts with 20 nodes and 380 links
+07/25/2012 10:42:49   created the network of exposures with 20 nodes
+07/25/2012 10:42:49   measurement started...
+07/25/2012 10:42:49   environment file read: environments/test20.xml
+07/25/2012 10:42:49   banks read from directory: banks/20/
+07/25/2012 10:42:49   read network of contracts: networks/network-random-20-1.0
+07/25/2012 10:42:49   created the network of contracts with 20 nodes and 380 links
+07/25/2012 10:42:49   created the network of exposures with 20 nodes
+07/25/2012 10:42:49     time: 8: <bank 17 is insolvent: 0.0 < 0.08>
+07/25/2012 10:42:50     time: 20: <bank 18 is insolvent: 0.0 < 0.08>
+07/25/2012 10:42:50     time: 21: <bank 10 is insolvent: 0.0176044866854 < 0.08>
+07/25/2012 10:42:51     time: 67: <bank 1 is insolvent: 0.0 < 0.08>
+07/25/2012 10:42:51     time: 71: <bank 16 is insolvent: 0.0 < 0.08>
+07/25/2012 10:42:52     time: 91: <bank 19 is insolvent: 0.0 < 0.08>
+07/25/2012 10:42:52     time: 98: <bank 0 is insolvent: 0.056599691185 < 0.08>
+07/25/2012 10:42:52     time: 115: <bank 7 is insolvent: 0.0 < 0.08>
+07/25/2012 10:42:55     time: 198: <bank 14 is insolvent: 0.0792688773767 < 0.08>
+07/25/2012 10:42:55 
+07/25/2012 10:42:55   ....measurement finished
+07/25/2012 10:42:55 FINISHED logging for run: environments/test20.xml 
+
+07/25/2012 10:43:42 START logging for run: environments/test20.xml
+07/25/2012 10:43:42   environment file read: environments/test20.xml
+07/25/2012 10:43:42   banks read from directory: banks/20/
+07/25/2012 10:43:42   read network of contracts: networks/network-random-20-1.0
+07/25/2012 10:43:42   created the network of contracts with 20 nodes and 380 links
+07/25/2012 10:43:42   created the network of exposures with 20 nodes
+07/25/2012 10:43:42   measurement started...
+07/25/2012 10:43:42   environment file read: environments/test20.xml
+07/25/2012 10:43:42   banks read from directory: banks/20/
+07/25/2012 10:43:42   read network of contracts: networks/network-random-20-1.0
+07/25/2012 10:43:42   created the network of contracts with 20 nodes and 380 links
+07/25/2012 10:43:42   created the network of exposures with 20 nodes
+07/25/2012 10:43:42     time: 2: <bank 10 is insolvent: 0.0 < 0.08>
+07/25/2012 10:44:16 START logging for run: environments/test20.xml
+07/25/2012 10:44:16   environment file read: environments/test20.xml
+07/25/2012 10:44:17   banks read from directory: banks/20/
+07/25/2012 10:44:17   read network of contracts: networks/network-random-20-1.0
+07/25/2012 10:44:17   created the network of contracts with 20 nodes and 380 links
+07/25/2012 10:44:17   created the network of exposures with 20 nodes
+07/25/2012 10:44:17   measurement started...
+07/25/2012 10:44:17   environment file read: environments/test20.xml
+07/25/2012 10:44:17   banks read from directory: banks/20/
+07/25/2012 10:44:17   read network of contracts: networks/network-random-20-1.0
+07/25/2012 10:44:17   created the network of contracts with 20 nodes and 380 links
+07/25/2012 10:44:17   created the network of exposures with 20 nodes
+07/25/2012 10:44:17     time: 5: <bank 4 is insolvent: 0.0 < 0.08>
+07/25/2012 10:44:17     time: 26: <bank 8 is insolvent: 0.0 < 0.08>
+07/25/2012 10:44:18     time: 30: <bank 15 is insolvent: 0.0 < 0.08>
+07/25/2012 10:44:19     time: 72: <bank 18 is insolvent: 0.0 < 0.08>
+07/25/2012 10:44:19     time: 80: <bank 0 is insolvent: 0.0 < 0.08>
+07/25/2012 10:44:23 
+07/25/2012 10:44:23   ....measurement finished
+07/25/2012 10:44:23 FINISHED logging for run: environments/test20.xml 
+
+07/25/2012 10:45:25 START logging for run: environments/test20.xml
+07/25/2012 10:45:25   environment file read: environments/test20.xml
+07/25/2012 10:45:25   banks read from directory: banks/20/
+07/25/2012 10:45:25   read network of contracts: networks/network-random-20-1.0
+07/25/2012 10:45:25   created the network of contracts with 20 nodes and 380 links
+07/25/2012 10:45:25   created the network of exposures with 20 nodes
+07/25/2012 10:45:25   measurement started...
+07/25/2012 10:45:25   environment file read: environments/test20.xml
+07/25/2012 10:45:25   banks read from directory: banks/20/
+07/25/2012 10:45:25   read network of contracts: networks/network-random-20-1.0
+07/25/2012 10:45:25   created the network of contracts with 20 nodes and 380 links
+07/25/2012 10:45:25   created the network of exposures with 20 nodes
+07/25/2012 10:45:26     time: 5: <bank 15 is insolvent: 0.0 < 0.08>
+07/25/2012 10:45:28     time: 79: <bank 16 is insolvent: 0.0 < 0.08>
+07/25/2012 10:45:29     time: 98: <bank 1 is insolvent: 0.0 < 0.08>
+07/25/2012 10:45:30     time: 149: <bank 6 is insolvent: 0.0 < 0.08>
+07/25/2012 10:45:30     time: 156: <bank 4 is insolvent: 0.0779564043082 < 0.08>
+07/25/2012 10:45:32     time: 194: <bank 8 is insolvent: 0.0 < 0.08>
+07/25/2012 10:45:32 
+07/25/2012 10:45:32   ....measurement finished
+07/25/2012 10:45:32 FINISHED logging for run: environments/test20.xml 
+
+07/25/2012 11:04:44 START logging for run: environments/test20.xml
+07/25/2012 11:04:44   environment file read: environments/test20.xml
+07/25/2012 11:04:44   banks read from directory: banks/20/
+07/25/2012 11:04:44   read network of contracts: networks/network-random-20-1.0
+07/25/2012 11:04:44   created the network of contracts with 20 nodes and 380 links
+07/25/2012 11:04:44   created the network of exposures with 20 nodes
+07/25/2012 11:04:44   measurement started...
+07/25/2012 11:04:44   environment file read: environments/test20.xml
+07/25/2012 11:04:44   banks read from directory: banks/20/
+07/25/2012 11:04:44   read network of contracts: networks/network-random-20-1.0
+07/25/2012 11:04:44   created the network of contracts with 20 nodes and 380 links
+07/25/2012 11:04:44   created the network of exposures with 20 nodes
+07/25/2012 11:04:44     time: 2: <bank 3 is insolvent: 0.0 < 0.08>
+07/25/2012 11:04:44     time: 2: <bank 15 is insolvent: 0.0 < 0.08>
+07/25/2012 11:04:44     time: 2: <bank 0 is insolvent: 0.0 < 0.08>
+07/25/2012 11:04:44     time: 2: <bank 2 is insolvent: 0.0 < 0.08>
+07/25/2012 11:04:44     time: 2: <bank 10 is insolvent: 0.0 < 0.08>
+07/25/2012 11:04:44     time: 2: <bank 8 is insolvent: 0.0 < 0.08>
+07/25/2012 11:04:44     time: 2: <bank 11 is insolvent: 0.0 < 0.08>
+07/25/2012 11:04:44     time: 2: <bank 17 is insolvent: 0.0 < 0.08>
+07/25/2012 11:04:44     time: 2: <bank 4 is insolvent: 0.0 < 0.08>
+07/25/2012 11:04:44     time: 2: <bank 7 is insolvent: 0.0 < 0.08>
+07/25/2012 11:04:45     time: 5: <bank 18 is insolvent: 0.0 < 0.08>
+07/25/2012 11:04:45     time: 5: <bank 5 is insolvent: 0.0 < 0.08>
+07/25/2012 11:04:45     time: 5: <bank 16 is insolvent: 0.0 < 0.08>
+07/25/2012 11:04:45     time: 5: <bank 19 is insolvent: 0.0 < 0.08>
+07/25/2012 11:04:45     time: 17: <bank 9 is insolvent: 0.0 < 0.08>
+07/25/2012 11:04:45     time: 27: <bank 13 is insolvent: 0.0 < 0.08>
+07/25/2012 11:04:46     time: 70: <bank 1 is insolvent: 0.0 < 0.08>
+07/25/2012 11:04:46     time: 70: <bank 6 is insolvent: 0.0 < 0.08>
+07/25/2012 11:04:50 
+07/25/2012 11:04:50   ....measurement finished
+07/25/2012 11:04:50 FINISHED logging for run: environments/test20.xml 
+
+07/25/2012 11:05:41 START logging for run: environments/test20.xml
+07/25/2012 11:05:41   environment file read: environments/test20.xml
+07/25/2012 11:05:41   banks read from directory: banks/20/
+07/25/2012 11:05:41   read network of contracts: networks/network-random-20-1.0
+07/25/2012 11:05:41   created the network of contracts with 20 nodes and 380 links
+07/25/2012 11:05:41   created the network of exposures with 20 nodes
+07/25/2012 11:05:41   measurement started...
+07/25/2012 11:05:41   environment file read: environments/test20.xml
+07/25/2012 11:05:41   banks read from directory: banks/20/
+07/25/2012 11:05:41   read network of contracts: networks/network-random-20-1.0
+07/25/2012 11:05:41   created the network of contracts with 20 nodes and 380 links
+07/25/2012 11:05:41   created the network of exposures with 20 nodes
+07/25/2012 11:05:42     time: 21: <bank 15 is insolvent: 0.0 < 0.08>
+07/25/2012 11:05:42     time: 42: <bank 11 is insolvent: 0.0 < 0.08>
+07/25/2012 11:05:42     time: 44: <bank 13 is insolvent: 0.0 < 0.08>
+07/25/2012 11:05:45     time: 151: <bank 17 is insolvent: 0.0667912420245 < 0.08>
+07/25/2012 11:05:46     time: 158: <bank 5 is insolvent: 0.0 < 0.08>
+07/25/2012 11:05:46     time: 163: <bank 1 is insolvent: 0.0 < 0.08>
+07/25/2012 11:05:47 
+07/25/2012 11:05:47   ....measurement finished
+07/25/2012 11:05:47 FINISHED logging for run: environments/test20.xml 
+
+07/25/2012 11:05:54 START logging for run: environments/test20.xml
+07/25/2012 11:05:54   environment file read: environments/test20.xml
+07/25/2012 11:05:54   banks read from directory: banks/20/
+07/25/2012 11:05:54   read network of contracts: networks/network-random-20-1.0
+07/25/2012 11:05:54   created the network of contracts with 20 nodes and 380 links
+07/25/2012 11:05:54   created the network of exposures with 20 nodes
+07/25/2012 11:05:54   measurement started...
+07/25/2012 11:05:54   environment file read: environments/test20.xml
+07/25/2012 11:05:54   banks read from directory: banks/20/
+07/25/2012 11:05:54   read network of contracts: networks/network-random-20-1.0
+07/25/2012 11:05:54   created the network of contracts with 20 nodes and 380 links
+07/25/2012 11:05:54   created the network of exposures with 20 nodes
+07/25/2012 11:05:54     time: 0: <bank 9 is insolvent: 0.0 < 0.08>
+07/25/2012 11:05:55     time: 16: <bank 12 is insolvent: 0.0 < 0.08>
+07/25/2012 11:05:56     time: 56: <bank 5 is insolvent: 0.0 < 0.08>
+07/25/2012 11:05:56     time: 56: <bank 11 is insolvent: 0.0 < 0.08>
+07/25/2012 11:05:56     time: 68: <bank 0 is insolvent: 0.0 < 0.08>
+07/25/2012 11:05:58     time: 111: <bank 3 is insolvent: 0.0 < 0.08>
+07/25/2012 11:05:58     time: 111: <bank 2 is insolvent: 0.0 < 0.08>
+07/25/2012 11:05:58     time: 111: <bank 14 is insolvent: 0.0 < 0.08>
+07/25/2012 11:05:58     time: 111: <bank 17 is insolvent: 0.0 < 0.08>
+07/25/2012 11:05:58     time: 112: <bank 19 is insolvent: 0.0 < 0.08>
+07/25/2012 11:05:58     time: 113: <bank 4 is insolvent: 0.0 < 0.08>
+07/25/2012 11:05:58     time: 121: <bank 16 is insolvent: 0.0 < 0.08>
+07/25/2012 11:06:00     time: 197: <bank 13 is insolvent: 0.0 < 0.08>
+07/25/2012 11:06:00 
+07/25/2012 11:06:00   ....measurement finished
+07/25/2012 11:06:00 FINISHED logging for run: environments/test20.xml 
+
+07/25/2012 11:06:14 START logging for run: environments/test20.xml
+07/25/2012 11:06:14   environment file read: environments/test20.xml
+07/25/2012 11:06:14   banks read from directory: banks/20/
+07/25/2012 11:06:14   read network of contracts: networks/network-random-20-1.0
+07/25/2012 11:06:14   created the network of contracts with 20 nodes and 380 links
+07/25/2012 11:06:14   created the network of exposures with 20 nodes
+07/25/2012 11:06:14   measurement started...
+07/25/2012 11:06:14   environment file read: environments/test20.xml
+07/25/2012 11:06:14   banks read from directory: banks/20/
+07/25/2012 11:06:14   read network of contracts: networks/network-random-20-1.0
+07/25/2012 11:06:14   created the network of contracts with 20 nodes and 380 links
+07/25/2012 11:06:14   created the network of exposures with 20 nodes
+07/25/2012 11:06:14     time: 15: <bank 15 is insolvent: 0.0 < 0.08>
+07/25/2012 11:06:15     time: 28: <bank 2 is insolvent: 0.0 < 0.08>
+07/25/2012 11:06:15     time: 59: <bank 5 is insolvent: 0.0 < 0.08>
+07/25/2012 11:06:15     time: 60: <bank 10 is insolvent: 0.0 < 0.08>
+07/25/2012 11:06:16     time: 77: <bank 11 is insolvent: 0.0 < 0.08>
+07/25/2012 11:06:18     time: 141: <bank 13 is insolvent: 0.0 < 0.08>
+07/25/2012 11:06:18     time: 155: <bank 14 is insolvent: 0.0 < 0.08>
+07/25/2012 11:06:19     time: 164: <bank 16 is insolvent: 0.0265356827176 < 0.08>
+07/25/2012 11:06:20 
+07/25/2012 11:06:20   ....measurement finished
+07/25/2012 11:06:20 FINISHED logging for run: environments/test20.xml 
+
+07/25/2012 11:20:18 START logging for run: environments/test20.xml
+07/25/2012 11:20:18   environment file read: environments/test20.xml
+07/25/2012 11:20:18   banks read from directory: banks/20/
+07/25/2012 11:20:18   read network of contracts: networks/network-random-20-1.0
+07/25/2012 11:20:18   created the network of contracts with 20 nodes and 380 links
+07/25/2012 11:20:18   created the network of exposures with 20 nodes
+07/25/2012 11:20:18   measurement started...
+07/25/2012 11:20:18   environment file read: environments/test20.xml
+07/25/2012 11:20:18   banks read from directory: banks/20/
+07/25/2012 11:20:18   read network of contracts: networks/network-random-20-1.0
+07/25/2012 11:20:18   created the network of contracts with 20 nodes and 380 links
+07/25/2012 11:20:18   created the network of exposures with 20 nodes
+07/25/2012 11:20:18     time: 11: <bank 9 is insolvent: 0.0 < 0.08>
+07/25/2012 11:20:19     time: 43: <bank 18 is insolvent: 0.0 < 0.08>
+07/25/2012 11:20:20     time: 57: <bank 17 is insolvent: 0.0 < 0.08>
+07/25/2012 11:20:21     time: 92: <bank 6 is insolvent: 0.0 < 0.08>
+07/25/2012 11:20:24 
+07/25/2012 11:20:24   ....measurement finished
+07/25/2012 11:20:24 FINISHED logging for run: environments/test20.xml 
+
+07/25/2012 11:20:58 START logging for run: environments/test20.xml
+07/25/2012 11:20:58   environment file read: environments/test20.xml
+07/25/2012 11:20:58   banks read from directory: banks/20/
+07/25/2012 11:20:58   read network of contracts: networks/network-random-20-1.0
+07/25/2012 11:20:58   created the network of contracts with 20 nodes and 380 links
+07/25/2012 11:20:58   created the network of exposures with 20 nodes
+07/25/2012 11:20:58   measurement started...
+07/25/2012 11:20:58   environment file read: environments/test20.xml
+07/25/2012 11:20:58   banks read from directory: banks/20/
+07/25/2012 11:20:58   read network of contracts: networks/network-random-20-1.0
+07/25/2012 11:20:58   created the network of contracts with 20 nodes and 380 links
+07/25/2012 11:20:58   created the network of exposures with 20 nodes
+07/25/2012 11:20:58     time: 0: <bank 6 is insolvent: 0.0 < 0.08>
+07/25/2012 11:20:59     time: 12: <bank 13 is insolvent: 0.00260889088887 < 0.08>
+07/25/2012 11:20:59     time: 14: <bank 4 is insolvent: 0.0616917777675 < 0.08>
+07/25/2012 11:20:59     time: 20: <bank 0 is insolvent: 0.0792739674617 < 0.08>
+07/25/2012 11:20:59     time: 23: <bank 3 is insolvent: 0.0287866230737 < 0.08>
+07/25/2012 11:20:59     time: 24: <bank 7 is insolvent: 0.00459633296657 < 0.08>
+07/25/2012 11:20:59     time: 35: <bank 10 is insolvent: 0.0770671587774 < 0.08>
+07/25/2012 11:20:59     time: 38: <bank 17 is insolvent: 0.00752740454117 < 0.08>
+07/25/2012 11:21:00     time: 43: <bank 11 is insolvent: 0.0 < 0.08>
+07/25/2012 11:21:03     time: 149: <bank 8 is insolvent: 0.0537366460544 < 0.08>
+07/25/2012 11:21:04     time: 179: <bank 9 is insolvent: 0.0729270647429 < 0.08>
+07/25/2012 11:21:05 
+07/25/2012 11:21:05   ....measurement finished
+07/25/2012 11:21:05 FINISHED logging for run: environments/test20.xml 
+
+07/25/2012 11:22:05 START logging for run: environments/test20.xml
+07/25/2012 11:22:05   environment file read: environments/test20.xml
+07/25/2012 11:22:05   banks read from directory: banks/20/
+07/25/2012 11:22:05   read network of contracts: networks/network-random-20-1.0
+07/25/2012 11:22:05   created the network of contracts with 20 nodes and 380 links
+07/25/2012 11:22:05   created the network of exposures with 20 nodes
+07/25/2012 11:22:05   measurement started...
+07/25/2012 11:22:05   environment file read: environments/test20.xml
+07/25/2012 11:22:05   banks read from directory: banks/20/
+07/25/2012 11:22:05   read network of contracts: networks/network-random-20-1.0
+07/25/2012 11:22:05   created the network of contracts with 20 nodes and 380 links
+07/25/2012 11:22:05   created the network of exposures with 20 nodes
+07/25/2012 11:22:05     time: 8: <bank 18 is insolvent: 0.0794729590284 < 0.08>
+07/25/2012 11:22:05     time: 9: <bank 4 is insolvent: 0.0 < 0.08>
+07/25/2012 11:22:06     time: 27: <bank 7 is insolvent: 0.0616638971185 < 0.08>
+07/25/2012 11:22:06     time: 37: <bank 16 is insolvent: 0.0767984236424 < 0.08>
+07/25/2012 11:22:06     time: 37: <bank 12 is insolvent: 0.0772047307243 < 0.08>
+07/25/2012 11:22:07     time: 45: <bank 9 is insolvent: 0.00915284277919 < 0.08>
+07/25/2012 11:22:07     time: 55: <bank 5 is insolvent: 0.0461916176637 < 0.08>
+07/25/2012 11:22:07     time: 56: <bank 14 is insolvent: 0.0123542544887 < 0.08>
+07/25/2012 11:22:09     time: 131: <bank 8 is insolvent: 0.0569561910598 < 0.08>
+07/25/2012 11:22:10     time: 165: <bank 19 is insolvent: 0.0783910041688 < 0.08>
+07/25/2012 11:22:11 
+07/25/2012 11:22:11   ....measurement finished
+07/25/2012 11:22:11 FINISHED logging for run: environments/test20.xml 
+
+07/25/2012 11:24:48 START logging for run: environments/test20.xml
+07/25/2012 11:24:48   environment file read: environments/test20.xml
+07/25/2012 11:24:48   banks read from directory: banks/20/
+07/25/2012 11:24:48   read network of contracts: networks/network-random-20-1.0
+07/25/2012 11:24:48   created the network of contracts with 20 nodes and 380 links
+07/25/2012 11:24:48   created the network of exposures with 20 nodes
+07/25/2012 11:24:48   measurement started...
+07/25/2012 11:24:48   environment file read: environments/test20.xml
+07/25/2012 11:24:48   banks read from directory: banks/20/
+07/25/2012 11:24:48   read network of contracts: networks/network-random-20-1.0
+07/25/2012 11:24:48   created the network of contracts with 20 nodes and 380 links
+07/25/2012 11:24:48   created the network of exposures with 20 nodes
+07/25/2012 11:24:49     time: 10: <bank 8 is insolvent: 0.0649274619845 < 0.08>
+07/25/2012 11:24:49     time: 13: <bank 17 is insolvent: 0.0615720044605 < 0.08>
+07/25/2012 11:24:49     time: 24: <bank 14 is insolvent: 0.0617273984129 < 0.08>
+07/25/2012 11:24:49     time: 31: <bank 4 is insolvent: 0.0 < 0.08>
+07/25/2012 11:41:01 START logging for run: environments/test20.xml
+07/25/2012 11:41:01   environment file read: environments/test20.xml
+07/25/2012 11:41:01   banks read from directory: banks/20/
+07/25/2012 11:41:01   read network of contracts: networks/network-random-20-1.0
+07/25/2012 11:41:01   created the network of contracts with 20 nodes and 380 links
+07/25/2012 11:41:01   created the network of exposures with 20 nodes
+07/25/2012 11:41:01   measurement started...
+07/25/2012 11:41:01   environment file read: environments/test20.xml
+07/25/2012 11:41:01   banks read from directory: banks/20/
+07/25/2012 11:41:01   read network of contracts: networks/network-random-20-1.0
+07/25/2012 11:41:01   created the network of contracts with 20 nodes and 380 links
+07/25/2012 11:41:01   created the network of exposures with 20 nodes
+07/25/2012 11:41:01     time: 11: <bank 9 is insolvent: 0.0 < 0.08>
+07/25/2012 11:41:02     time: 19: <bank 1 is insolvent: 0.0 < 0.08>
+07/25/2012 11:41:02     time: 25: <bank 8 is insolvent: 0.0449793950646 < 0.08>
+07/25/2012 11:41:02     time: 34: <bank 3 is insolvent: 0.00641940622812 < 0.08>
+07/25/2012 11:41:02     time: 38: <bank 5 is insolvent: 0.0 < 0.08>
+07/25/2012 11:41:03     time: 52: <bank 0 is insolvent: 0.00521094139412 < 0.08>
+07/25/2012 11:41:03     time: 52: <bank 15 is insolvent: 0.0701126393009 < 0.08>
+07/25/2012 11:41:03     time: 53: <bank 6 is insolvent: 0.0320909269589 < 0.08>
+07/25/2012 11:41:03     time: 53: <bank 17 is insolvent: 0.00458010422705 < 0.08>
+07/25/2012 11:41:03     time: 53: <bank 18 is insolvent: 0.0544390753396 < 0.08>
+07/25/2012 11:41:03     time: 54: <bank 10 is insolvent: 0.00451687267332 < 0.08>
+07/25/2012 11:41:03     time: 71: <bank 14 is insolvent: 0.0 < 0.08>
+07/25/2012 11:41:04     time: 87: <bank 12 is insolvent: 0.0228661593901 < 0.08>
+07/25/2012 11:41:04     time: 88: <bank 13 is insolvent: 0.0570210489402 < 0.08>
+07/25/2012 11:41:04     time: 89: <bank 2 is insolvent: 0.00362043593322 < 0.08>
+07/25/2012 11:41:04     time: 99: <bank 7 is insolvent: 0.076776847197 < 0.08>
+07/25/2012 11:41:06     time: 187: <bank 16 is insolvent: 0.0 < 0.08>
+07/25/2012 11:41:07 
+07/25/2012 11:41:07   ....measurement finished
+07/25/2012 11:41:07 FINISHED logging for run: environments/test20.xml 
+
+07/25/2012 11:58:25 START logging for run: environments/test20.xml
+07/25/2012 11:58:25   environment file read: environments/test20.xml
+07/25/2012 11:58:25   banks read from directory: banks/20/
+07/25/2012 11:58:25   read network of contracts: networks/network-random-20-1.0
+07/25/2012 11:58:25   created the network of contracts with 20 nodes and 380 links
+07/25/2012 11:58:25   created the network of exposures with 20 nodes
+07/25/2012 11:58:25   measurement started...
+07/25/2012 11:58:25   environment file read: environments/test20.xml
+07/25/2012 11:58:25   banks read from directory: banks/20/
+07/25/2012 11:58:25   read network of contracts: networks/network-random-20-1.0
+07/25/2012 11:58:25   created the network of contracts with 20 nodes and 380 links
+07/25/2012 11:58:25   created the network of exposures with 20 nodes
+07/25/2012 11:58:26     time: 12: <bank 9 is insolvent: 0.0719013357275 < 0.08>
+07/25/2012 11:58:26     time: 12: <bank 16 is insolvent: 0.0737110865121 < 0.08>
+07/25/2012 11:58:26     time: 19: <bank 3 is insolvent: 0.0797860472173 < 0.08>
+07/25/2012 11:58:26     time: 19: <bank 17 is insolvent: 0.0796771976025 < 0.08>
+07/25/2012 11:58:26     time: 22: <bank 8 is insolvent: 0.0545267767646 < 0.08>
+07/25/2012 11:58:26     time: 29: <bank 1 is insolvent: 0.0493404330047 < 0.08>
+07/25/2012 11:58:26     time: 30: <bank 11 is insolvent: 0.032456506284 < 0.08>
+07/25/2012 11:58:26     time: 31: <bank 15 is insolvent: 0.0755316148425 < 0.08>
+07/25/2012 11:58:27     time: 37: <bank 2 is insolvent: 0.0380451180775 < 0.08>
+07/25/2012 11:58:28     time: 90: <bank 6 is insolvent: 0.0791032060494 < 0.08>
+07/25/2012 11:58:29     time: 129: <bank 12 is insolvent: 0.0 < 0.08>
+07/25/2012 11:58:30     time: 146: <bank 0 is insolvent: 0.0464798144276 < 0.08>
+07/25/2012 11:58:30     time: 164: <bank 5 is insolvent: 0.0159169410301 < 0.08>
+07/25/2012 11:58:31     time: 172: <bank 7 is insolvent: 0.0 < 0.08>
+07/25/2012 11:58:31 
+07/25/2012 11:58:31   ....measurement finished
+07/25/2012 11:58:31 FINISHED logging for run: environments/test20.xml 
+
+07/25/2012 11:59:07 START logging for run: environments/test20.xml
+07/25/2012 11:59:07   environment file read: environments/test20.xml
+07/25/2012 11:59:07   banks read from directory: banks/20/
+07/25/2012 11:59:07   read network of contracts: networks/network-random-20-1.0
+07/25/2012 11:59:07   created the network of contracts with 20 nodes and 380 links
+07/25/2012 11:59:07   created the network of exposures with 20 nodes
+07/25/2012 11:59:07   measurement started...
+07/25/2012 11:59:07   environment file read: environments/test20.xml
+07/25/2012 11:59:07   banks read from directory: banks/20/
+07/25/2012 11:59:07   read network of contracts: networks/network-random-20-1.0
+07/25/2012 11:59:07   created the network of contracts with 20 nodes and 380 links
+07/25/2012 11:59:07   created the network of exposures with 20 nodes
+07/25/2012 11:59:08     time: 11: <bank 8 is insolvent: 0.0 < 0.08>
+07/25/2012 11:59:08     time: 26: <bank 11 is insolvent: 0.0 < 0.08>
+07/25/2012 11:59:08     time: 29: <bank 6 is insolvent: 0.0441178007946 < 0.08>
+07/25/2012 11:59:09     time: 33: <bank 16 is insolvent: 0.0 < 0.08>
+07/25/2012 11:59:09     time: 44: <bank 14 is insolvent: 0.0394094861606 < 0.08>
+07/25/2012 11:59:09     time: 44: <bank 4 is insolvent: 0.0394089445669 < 0.08>
+07/25/2012 11:59:09     time: 45: <bank 18 is insolvent: 0.0409658826673 < 0.08>
+07/25/2012 11:59:09     time: 62: <bank 15 is insolvent: 0.0 < 0.08>
+07/25/2012 11:59:10     time: 88: <bank 13 is insolvent: 0.0363128842516 < 0.08>
+07/25/2012 12:01:48 START logging for run: environments/test20.xml
+07/25/2012 12:01:48   environment file read: environments/test20.xml
+07/25/2012 12:01:48   banks read from directory: banks/20/
+07/25/2012 12:01:57 START logging for run: environments/test20.xml
+07/25/2012 12:01:57   environment file read: environments/test20.xml
+07/25/2012 12:01:57   banks read from directory: banks/20/
+07/25/2012 12:01:57   read network of contracts: networks/network-random-20-1.0
+07/25/2012 12:01:57   created the network of contracts with 20 nodes and 380 links
+07/25/2012 12:01:57   created the network of exposures with 20 nodes
+07/25/2012 12:01:58   measurement started...
+07/25/2012 12:01:58   environment file read: environments/test20.xml
+07/25/2012 12:01:58   banks read from directory: banks/20/
+07/25/2012 12:01:58   read network of contracts: networks/network-random-20-1.0
+07/25/2012 12:01:58   created the network of contracts with 20 nodes and 380 links
+07/25/2012 12:01:58   created the network of exposures with 20 nodes
+07/25/2012 12:01:58     time: 3: <bank 14 is insolvent: 0.0 < 0.08>
+07/25/2012 12:01:58     time: 15: <bank 18 is insolvent: 0.0 < 0.08>
+07/25/2012 12:01:58     time: 24: <bank 16 is insolvent: 0.0 < 0.08>
+07/25/2012 12:01:59     time: 33: <bank 11 is insolvent: 0.0 < 0.08>
+07/25/2012 12:01:59     time: 35: <bank 3 is insolvent: 0.0745682446116 < 0.08>
+07/25/2012 12:01:59     time: 41: <bank 13 is insolvent: 0.0704415701911 < 0.08>
+07/25/2012 12:03:08 START logging for run: environments/test20.xml
+07/25/2012 12:03:08   environment file read: environments/test20.xml
+07/25/2012 12:03:08   banks read from directory: banks/20/
+07/25/2012 12:03:08   read network of contracts: networks/network-random-20-1.0
+07/25/2012 12:03:08   created the network of contracts with 20 nodes and 380 links
+07/25/2012 12:03:08   created the network of exposures with 20 nodes
+07/25/2012 12:03:08   measurement started...
+07/25/2012 12:03:08   environment file read: environments/test20.xml
+07/25/2012 12:03:08   banks read from directory: banks/20/
+07/25/2012 12:03:08   read network of contracts: networks/network-random-20-1.0
+07/25/2012 12:03:08   created the network of contracts with 20 nodes and 380 links
+07/25/2012 12:03:08   created the network of exposures with 20 nodes
+07/25/2012 12:03:09     time: 21: <bank 14 is insolvent: 0.0 < 0.08>
+07/25/2012 12:03:09     time: 33: <bank 4 is insolvent: 0.0790908174107 < 0.08>
+07/25/2012 12:03:10     time: 40: <bank 18 is insolvent: 0.0 < 0.08>
+07/25/2012 12:03:10     time: 49: <bank 15 is insolvent: 0.0718847038983 < 0.08>
+07/25/2012 12:03:10     time: 49: <bank 12 is insolvent: 0.0710061482778 < 0.08>
+07/25/2012 12:03:10     time: 56: <bank 10 is insolvent: 0.0794411369172 < 0.08>
+07/25/2012 12:03:13     time: 139: <bank 7 is insolvent: 0.0773229219136 < 0.08>
+07/25/2012 12:03:15 
+07/25/2012 12:03:15   ....measurement finished
+07/25/2012 12:03:15 FINISHED logging for run: environments/test20.xml 
+
+07/25/2012 12:05:03 START logging for run: environments/test20.xml
+07/25/2012 12:05:03   environment file read: environments/test20.xml
+07/25/2012 12:05:03   banks read from directory: banks/20/
+07/25/2012 12:05:03   read network of contracts: networks/network-random-20-1.0
+07/25/2012 12:05:03   created the network of contracts with 20 nodes and 380 links
+07/25/2012 12:05:03   created the network of exposures with 20 nodes
+07/25/2012 12:05:03   measurement started...
+07/25/2012 12:05:03   environment file read: environments/test20.xml
+07/25/2012 12:05:03   banks read from directory: banks/20/
+07/25/2012 12:05:03   read network of contracts: networks/network-random-20-1.0
+07/25/2012 12:05:03   created the network of contracts with 20 nodes and 380 links
+07/25/2012 12:05:03   created the network of exposures with 20 nodes
+07/25/2012 12:05:04     time: 17: <bank 17 is insolvent: 0.0 < 0.08>
+07/25/2012 12:05:04     time: 32: <bank 5 is insolvent: 0.0714591022069 < 0.08>
+07/25/2012 12:05:04     time: 34: <bank 1 is insolvent: 0.0 < 0.08>
+07/25/2012 12:05:04     time: 35: <bank 18 is insolvent: 0.0786174758599 < 0.08>
+07/25/2012 12:05:04     time: 35: <bank 6 is insolvent: 0.0720718113332 < 0.08>
+07/25/2012 12:05:04     time: 35: <bank 4 is insolvent: 0.0663098644554 < 0.08>
+07/25/2012 12:05:05     time: 40: <bank 8 is insolvent: 0.0 < 0.08>
+07/25/2012 12:05:05     time: 49: <bank 15 is insolvent: 0.0 < 0.08>
+07/25/2012 12:05:05     time: 61: <bank 3 is insolvent: 0.0 < 0.08>
+07/25/2012 12:05:08     time: 136: <bank 10 is insolvent: 0.0 < 0.08>
+07/25/2012 12:05:09     time: 186: <bank 14 is insolvent: 0.0798590664505 < 0.08>
+07/25/2012 12:05:10 
+07/25/2012 12:05:10   ....measurement finished
+07/25/2012 12:05:10 FINISHED logging for run: environments/test20.xml 
+
+07/25/2012 12:05:12 START logging for run: environments/test20.xml
+07/25/2012 12:05:12   environment file read: environments/test20.xml
+07/25/2012 12:05:12   banks read from directory: banks/20/
+07/25/2012 12:05:12   read network of contracts: networks/network-random-20-1.0
+07/25/2012 12:05:12   created the network of contracts with 20 nodes and 380 links
+07/25/2012 12:05:12   created the network of exposures with 20 nodes
+07/25/2012 12:05:12   measurement started...
+07/25/2012 12:05:12   environment file read: environments/test20.xml
+07/25/2012 12:05:12   banks read from directory: banks/20/
+07/25/2012 12:05:12   read network of contracts: networks/network-random-20-1.0
+07/25/2012 12:05:12   created the network of contracts with 20 nodes and 380 links
+07/25/2012 12:05:12   created the network of exposures with 20 nodes
+07/25/2012 12:05:12     time: 12: <bank 18 is insolvent: 0.0 < 0.08>
+07/25/2012 12:05:12     time: 12: <bank 3 is insolvent: 0.0 < 0.08>
+07/25/2012 12:05:12     time: 19: <bank 8 is insolvent: 0.0694899846452 < 0.08>
+07/25/2012 12:05:12     time: 21: <bank 9 is insolvent: 0.0726478559576 < 0.08>
+07/25/2012 12:05:13     time: 29: <bank 15 is insolvent: 0.0781613185379 < 0.08>
+07/25/2012 12:05:13     time: 29: <bank 1 is insolvent: 0.0696950895507 < 0.08>
+07/25/2012 12:05:13     time: 39: <bank 10 is insolvent: 0.0511665060531 < 0.08>
+07/25/2012 12:05:13     time: 41: <bank 14 is insolvent: 0.0 < 0.08>
+07/25/2012 12:05:16     time: 127: <bank 13 is insolvent: 0.0 < 0.08>
+07/25/2012 12:05:16     time: 158: <bank 11 is insolvent: 0.0774369107466 < 0.08>
+07/25/2012 12:05:18 
+07/25/2012 12:05:18   ....measurement finished
+07/25/2012 12:05:18 FINISHED logging for run: environments/test20.xml 
+
+07/25/2012 12:05:21 START logging for run: environments/test20.xml
+07/25/2012 12:05:21   environment file read: environments/test20.xml
+07/25/2012 12:05:21   banks read from directory: banks/20/
+07/25/2012 12:05:21   read network of contracts: networks/network-random-20-1.0
+07/25/2012 12:05:21   created the network of contracts with 20 nodes and 380 links
+07/25/2012 12:05:21   created the network of exposures with 20 nodes
+07/25/2012 12:05:21   measurement started...
+07/25/2012 12:05:21   environment file read: environments/test20.xml
+07/25/2012 12:05:21   banks read from directory: banks/20/
+07/25/2012 12:05:21   read network of contracts: networks/network-random-20-1.0
+07/25/2012 12:05:21   created the network of contracts with 20 nodes and 380 links
+07/25/2012 12:05:21   created the network of exposures with 20 nodes
+07/25/2012 12:05:21     time: 2: <bank 6 is insolvent: 0.045309570082 < 0.08>
+07/25/2012 12:05:21     time: 2: <bank 4 is insolvent: 0.0538397183092 < 0.08>
+07/25/2012 12:05:21     time: 3: <bank 5 is insolvent: 0.0 < 0.08>
+07/25/2012 12:05:21     time: 3: <bank 15 is insolvent: 0.0 < 0.08>
+07/25/2012 12:05:21     time: 3: <bank 0 is insolvent: 0.0 < 0.08>
+07/25/2012 12:05:21     time: 3: <bank 1 is insolvent: 0.0 < 0.08>
+07/25/2012 12:05:21     time: 3: <bank 8 is insolvent: 0.0 < 0.08>
+07/25/2012 12:05:21     time: 3: <bank 9 is insolvent: 0.0 < 0.08>
+07/25/2012 12:05:21     time: 3: <bank 16 is insolvent: 0.0 < 0.08>
+07/25/2012 12:05:21     time: 3: <bank 17 is insolvent: 0.0 < 0.08>
+07/25/2012 12:05:21     time: 3: <bank 7 is insolvent: 0.0 < 0.08>
+07/25/2012 12:05:21     time: 3: <bank 12 is insolvent: 0.0 < 0.08>
+07/25/2012 12:05:22     time: 39: <bank 2 is insolvent: 0.0 < 0.08>
+07/25/2012 12:05:22     time: 39: <bank 10 is insolvent: 0.0 < 0.08>
+07/25/2012 12:05:22     time: 41: <bank 11 is insolvent: 0.0 < 0.08>
+07/25/2012 12:05:23     time: 91: <bank 13 is insolvent: 0.0 < 0.08>
+07/25/2012 12:05:25     time: 164: <bank 14 is insolvent: 0.0 < 0.08>
+07/25/2012 12:05:25     time: 164: <bank 19 is insolvent: 0.0 < 0.08>
+07/25/2012 12:05:26 
+07/25/2012 12:05:26   ....measurement finished
+07/25/2012 12:05:26 FINISHED logging for run: environments/test20.xml 
+
+07/25/2012 12:05:36 START logging for run: environments/test20.xml
+07/25/2012 12:05:36   environment file read: environments/test20.xml
+07/25/2012 12:05:37   banks read from directory: banks/20/
+07/25/2012 12:05:37   read network of contracts: networks/network-random-20-1.0
+07/25/2012 12:05:37   created the network of contracts with 20 nodes and 380 links
+07/25/2012 12:05:37   created the network of exposures with 20 nodes
+07/25/2012 12:05:37   measurement started...
+07/25/2012 12:05:37   environment file read: environments/test20.xml
+07/25/2012 12:05:37   banks read from directory: banks/20/
+07/25/2012 12:05:37   read network of contracts: networks/network-random-20-1.0
+07/25/2012 12:05:37   created the network of contracts with 20 nodes and 380 links
+07/25/2012 12:05:37   created the network of exposures with 20 nodes
+07/25/2012 12:05:37     time: 2: <bank 15 is insolvent: 0.0 < 0.08>
+07/25/2012 12:05:37     time: 2: <bank 0 is insolvent: 0.00593137025813 < 0.08>
+07/25/2012 12:05:37     time: 2: <bank 8 is insolvent: 0.0 < 0.08>
+07/25/2012 12:05:37     time: 2: <bank 19 is insolvent: 0.0118753797744 < 0.08>
+07/25/2012 12:05:37     time: 8: <bank 12 is insolvent: 0.0 < 0.08>
+07/25/2012 12:05:37     time: 8: <bank 13 is insolvent: 0.0 < 0.08>
+07/25/2012 12:05:37     time: 8: <bank 14 is insolvent: 0.0 < 0.08>
+07/25/2012 12:05:37     time: 8: <bank 7 is insolvent: 0.0 < 0.08>
+07/25/2012 12:05:37     time: 11: <bank 9 is insolvent: 0.0 < 0.08>
+07/25/2012 12:05:37     time: 13: <bank 2 is insolvent: 0.0 < 0.08>
+07/25/2012 12:05:37     time: 13: <bank 10 is insolvent: 0.0 < 0.08>
+07/25/2012 12:05:37     time: 13: <bank 16 is insolvent: 0.0 < 0.08>
+07/25/2012 12:05:37     time: 20: <bank 3 is insolvent: 0.0 < 0.08>
+07/25/2012 12:05:37     time: 25: <bank 6 is insolvent: 0.0 < 0.08>
+07/25/2012 12:05:38     time: 64: <bank 5 is insolvent: 0.0 < 0.08>
+07/25/2012 12:05:39     time: 65: <bank 18 is insolvent: 0.0 < 0.08>
+07/25/2012 12:05:39     time: 65: <bank 4 is insolvent: 0.0 < 0.08>
+07/25/2012 12:05:40     time: 121: <bank 11 is insolvent: 0.0 < 0.08>
+07/25/2012 12:05:42 
+07/25/2012 12:05:42   ....measurement finished
+07/25/2012 12:05:42 FINISHED logging for run: environments/test20.xml 
+
+07/26/2012 07:52:48 START logging for run: environments/test20.xml
+07/26/2012 07:52:48   environment file read: environments/test20.xml
+07/26/2012 07:52:48   banks read from directory: banks/20/
+07/26/2012 07:52:48   read network of contracts: networks/network-random-20-1.0
+07/26/2012 07:52:48   created the network of contracts with 20 nodes and 380 links
+07/26/2012 07:52:48   created the network of exposures with 20 nodes
+07/26/2012 07:52:48   measurement started...
+07/26/2012 07:52:48   environment file read: environments/test20.xml
+07/26/2012 07:52:48   banks read from directory: banks/20/
+07/26/2012 07:52:48   read network of contracts: networks/network-random-20-1.0
+07/26/2012 07:52:48   created the network of contracts with 20 nodes and 380 links
+07/26/2012 07:52:48   created the network of exposures with 20 nodes
+07/26/2012 07:52:49     time: 1: <bank 15 is insolvent: 0.0699558782401 < 0.08>
+07/26/2012 07:52:49     time: 1: <bank 19 is insolvent: 0.0646988911314 < 0.08>
+07/26/2012 07:52:49     time: 9: <bank 14 is insolvent: 0.0 < 0.08>
+07/26/2012 07:52:49     time: 9: <bank 5 is insolvent: 0.0 < 0.08>
+07/26/2012 07:52:49     time: 9: <bank 4 is insolvent: 0.0 < 0.08>
+07/26/2012 07:52:49     time: 17: <bank 13 is insolvent: 0.0 < 0.08>
+07/26/2012 07:52:49     time: 17: <bank 17 is insolvent: 0.0 < 0.08>
+07/26/2012 07:52:49     time: 18: <bank 1 is insolvent: 0.0 < 0.08>
+07/26/2012 07:52:49     time: 18: <bank 6 is insolvent: 0.0 < 0.08>
+07/26/2012 07:52:49     time: 18: <bank 10 is insolvent: 0.0 < 0.08>
+07/26/2012 07:52:49     time: 18: <bank 12 is insolvent: 0.0 < 0.08>
+07/26/2012 07:52:49     time: 23: <bank 16 is insolvent: 0.0 < 0.08>
+07/26/2012 07:52:50     time: 40: <bank 2 is insolvent: 0.0 < 0.08>
+07/26/2012 07:52:51     time: 100: <bank 9 is insolvent: 0.0 < 0.08>
+07/26/2012 07:52:53     time: 168: <bank 8 is insolvent: 0.0792096966932 < 0.08>
+07/26/2012 07:52:54 
+07/26/2012 07:52:54   ....measurement finished
+07/26/2012 07:52:54 FINISHED logging for run: environments/test20.xml 
+
+09/10/2012 22:43:43 START logging for run: environments/test20.xml
+09/10/2012 22:43:43   environment file read: environments/test20.xml
+09/10/2012 22:43:43   banks read from directory: banks/20/
+09/10/2012 22:43:43   read network of contracts: networks/network-random-20-1.0
+09/10/2012 22:43:43   created the network of contracts with 20 nodes and 380 links
+09/10/2012 22:43:43   created the network of exposures with 20 nodes
+09/10/2012 22:43:43   measurement started...
+09/10/2012 22:43:43   environment file read: environments/test20.xml
+09/10/2012 22:43:43   banks read from directory: banks/20/
+09/10/2012 22:43:43   read network of contracts: networks/network-random-20-1.0
+09/10/2012 22:43:43   created the network of contracts with 20 nodes and 380 links
+09/10/2012 22:43:43   created the network of exposures with 20 nodes
+09/10/2012 22:43:43     time: 2: <bank 2 is insolvent: 0.071145687106 < 0.08>
+09/10/2012 22:43:43     time: 2: <bank 14 is insolvent: 0.0759252954483 < 0.08>
+09/10/2012 22:43:43     time: 3: <bank 10 is insolvent: 0.0768331960965 < 0.08>
+09/10/2012 22:43:43     time: 3: <bank 8 is insolvent: 0.0768698827232 < 0.08>
+09/10/2012 22:43:43     time: 3: <bank 0 is insolvent: 0.0 < 0.08>
+09/10/2012 22:43:43     time: 3: <bank 1 is insolvent: 0.0 < 0.08>
+09/10/2012 22:43:43     time: 6: <bank 5 is insolvent: 0.0 < 0.08>
+09/10/2012 22:43:43     time: 10: <bank 11 is insolvent: 0.0 < 0.08>
+09/10/2012 22:43:44     time: 46: <bank 7 is insolvent: 0.0 < 0.08>
+09/10/2012 22:43:46     time: 133: <bank 3 is insolvent: 0.0 < 0.08>
+09/10/2012 22:43:46     time: 146: <bank 4 is insolvent: 0.0 < 0.08>
+09/10/2012 22:43:47 
+09/10/2012 22:43:47   ....measurement finished
+09/10/2012 22:43:47 FINISHED logging for run: environments/test20.xml 
+

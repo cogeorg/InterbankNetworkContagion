@@ -1,0 +1,19 @@
+10/30/2012 13:59:52 START logging for run: environments/test10.xml
+10/30/2012 14:04:53 START logging for run: environments/test10.xml
+10/30/2012 14:06:08 START logging for run: environments/test10.xml
+10/30/2012 14:06:08   environment file read: environments/test10.xml
+10/30/2012 14:06:08   banks read from directory: banks/10/
+10/30/2012 14:06:08   read network of contracts: networks/network-random-10-0.8
+10/30/2012 14:06:08   created the network of contracts with 10 nodes and 69 links
+10/30/2012 14:06:08   created the network of exposures with 10 nodes
+10/30/2012 14:06:08   measurement started...
+10/30/2012 14:06:08   STARTED with run 0
+10/30/2012 14:06:08   environment file read: environments/test10.xml
+10/30/2012 14:06:08   banks read from directory: banks/10/
+10/30/2012 14:06:08   read network of contracts: networks/network-random-10-0.8
+10/30/2012 14:06:08   created the network of contracts with 10 nodes and 69 links
+10/30/2012 14:06:08   created the network of exposures with 10 nodes
+10/30/2012 14:06:10   DONE
+10/30/2012 14:06:10   ....measurement finished
+10/30/2012 14:06:10 FINISHED logging for run: environments/test10.xml 
+

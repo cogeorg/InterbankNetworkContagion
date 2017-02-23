@@ -1,0 +1,36 @@
+10/01/2012 11:09:11 START logging for run: environments/baseline-50.xml
+10/01/2012 11:09:11   environment file read: environments/baseline-50.xml
+10/22/2012 09:44:31 START logging for run: environments/baseline-50.xml
+10/22/2012 09:44:31   environment file read: environments/baseline-50.xml
+10/22/2012 09:44:59 START logging for run: environments/baseline-50.xml
+10/22/2012 09:44:59   environment file read: environments/baseline-50.xml
+10/22/2012 09:45:00   banks read from directory: banks/50/
+10/22/2012 09:45:00   read network of contracts: networks/network-ba-50-4
+10/22/2012 09:45:00   created the network of contracts with 50 nodes and 368 links
+10/22/2012 09:45:00   created the network of exposures with 50 nodes
+10/22/2012 09:45:00   measurement started...
+10/22/2012 09:45:00   STARTED with run 0
+10/22/2012 09:45:00   environment file read: environments/baseline-50.xml
+10/22/2012 09:45:00   banks read from directory: banks/50/
+10/22/2012 09:45:00   read network of contracts: networks/network-ba-50-4
+10/22/2012 09:45:00   created the network of contracts with 50 nodes and 368 links
+10/22/2012 09:45:00   created the network of exposures with 50 nodes
+10/22/2012 09:45:04     time: 36: <bank 21 is insolvent: 0.0 < 0.08>
+10/22/2012 09:45:17     time: 174: <bank 48 is insolvent: 0.0767797933763 < 0.08>
+10/22/2012 09:45:24     time: 246: <bank 24 is insolvent: 0.0224160996499 < 0.08>
+10/22/2012 09:45:24     time: 250: <bank 31 is insolvent: 0.0 < 0.08>
+10/30/2012 13:47:29 START logging for run: production/environments/baseline-50.xml
+10/30/2012 13:47:29   environment file read: production/environments/baseline-50.xml
+10/30/2012 13:47:55 START logging for run: production/environments/baseline-50.xml
+10/30/2012 13:47:55   environment file read: production/environments/baseline-50.xml
+10/30/2012 13:47:55   banks read from directory: production/banks/50/
+10/30/2012 13:47:55   read network of contracts: production/networks/network-ba-50-4
+10/30/2012 13:47:55   created the network of contracts with 50 nodes and 368 links
+10/30/2012 13:47:55   created the network of exposures with 50 nodes
+10/30/2012 13:47:55   measurement started...
+10/30/2012 13:47:55   STARTED with run 0
+10/30/2012 13:47:55   environment file read: production/environments/baseline-50.xml
+10/30/2012 13:47:55   banks read from directory: production/banks/50/
+10/30/2012 13:47:55   read network of contracts: production/networks/network-ba-50-4
+10/30/2012 13:47:55   created the network of contracts with 50 nodes and 368 links
+10/30/2012 13:47:55   created the network of exposures with 50 nodes

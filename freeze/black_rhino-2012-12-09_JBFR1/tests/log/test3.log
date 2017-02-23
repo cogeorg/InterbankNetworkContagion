@@ -1,0 +1,1026 @@
+10/22/2012 10:12:15 START logging for test updater__remove_inactive_banks in run: environments/test3.xml
+10/22/2012 10:15:09 START logging for test updater__remove_inactive_banks in run: environments/test3.xml
+10/22/2012 10:15:52 START logging for test updater__remove_inactive_banks in run: environments/test3.xml
+10/22/2012 10:16:14 START logging for test updater__remove_inactive_banks in run: environments/test3.xml
+10/22/2012 10:16:49 START logging for test updater__remove_inactive_banks in run: environments/test3.xml
+10/22/2012 10:18:01 START logging for test updater__remove_inactive_banks in run: tests/environments/test3.xml
+10/22/2012 10:18:01   environment file read: tests/environments/test3.xml
+10/22/2012 10:18:42 START logging for test updater__remove_inactive_banks in run: tests/environments/test3.xml
+10/22/2012 10:18:42   environment file read: tests/environments/test3.xml
+10/22/2012 10:18:42   banks read from directory: tests/banks/3/
+10/22/2012 10:18:42   read network of contracts: tests/networks/full-3_banks
+10/22/2012 10:18:42   created the network of contracts with 3 nodes and 6 links
+10/22/2012 10:18:42   created the network of exposures with 3 nodes
+10/22/2012 10:19:27 START logging for test network__do_interbank_trades in run: tests/environments/test3.xml
+10/22/2012 10:20:18 START logging for test network__do_interbank_trades in run: tests/environments/test3.xml
+10/23/2012 15:44:41 START logging for test network__do_interbank_trades in run: tests/environments/test3.xml
+10/23/2012 15:46:19 START logging for test network__do_interbank_trades in run: tests/environments/test3.xml
+10/23/2012 15:46:19   environment file read: tests/environments/test3.xml
+10/23/2012 15:46:20   banks read from directory: tests/banks/3/
+10/23/2012 15:46:20   read network of contracts: tests/networks/full-3_banks
+10/23/2012 15:46:20   created the network of contracts with 3 nodes and 6 links
+10/23/2012 15:46:20   created the network of exposures with 3 nodes
+10/23/2012 15:46:20 FINISHED logging for test updater__remove_inactive_bank in run: tests/environments/test3.xml 
+
+10/23/2012 15:47:03 START logging for test network__do_interbank_trades in run: tests/environments/test3.xml
+10/23/2012 15:47:03   environment file read: tests/environments/test3.xml
+10/23/2012 15:47:03   banks read from directory: tests/banks/3/
+10/23/2012 15:47:03   read network of contracts: tests/networks/full-3_banks
+10/23/2012 15:47:03   created the network of contracts with 3 nodes and 6 links
+10/23/2012 15:47:03   created the network of exposures with 3 nodes
+10/23/2012 15:47:03 FINISHED logging for test updater__remove_inactive_bank in run: tests/environments/test3.xml 
+
+10/23/2012 16:02:18 START logging for test bank__test1 in run: tests/environments/test3.xml
+10/23/2012 16:02:18   environment file read: tests/environments/test3.xml
+10/23/2012 16:02:18   banks read from directory: tests/banks/3/
+10/23/2012 16:02:18   read network of contracts: tests/networks/full-3_banks
+10/23/2012 16:02:18   created the network of contracts with 3 nodes and 6 links
+10/23/2012 16:02:18   created the network of exposures with 3 nodes
+10/23/2012 16:02:18 FINISHED logging for test updater__remove_inactive_bank in run: tests/environments/test3.xml 
+
+10/23/2012 16:02:38 START logging for test bank__test1 in run: tests/environments/test3.xml
+10/23/2012 16:02:38   environment file read: tests/environments/test3.xml
+10/23/2012 16:02:38   banks read from directory: tests/banks/3/
+10/23/2012 16:02:38   read network of contracts: tests/networks/full-3_banks
+10/23/2012 16:02:38   created the network of contracts with 3 nodes and 6 links
+10/23/2012 16:02:38   created the network of exposures with 3 nodes
+10/23/2012 16:02:38 FINISHED logging for test updater__remove_inactive_bank in run: tests/environments/test3.xml 
+
+10/23/2012 16:05:06 START logging for test bank__test1 in run: tests/environments/test3.xml
+10/23/2012 16:05:06   environment file read: tests/environments/test3.xml
+10/23/2012 16:05:07   banks read from directory: tests/banks/3/
+10/23/2012 16:05:07   read network of contracts: tests/networks/full-3_banks
+10/23/2012 16:05:07   created the network of contracts with 3 nodes and 6 links
+10/23/2012 16:05:07   created the network of exposures with 3 nodes
+10/23/2012 16:05:07 FINISHED logging for test updater__remove_inactive_bank in run: tests/environments/test3.xml 
+
+10/23/2012 16:10:17 START logging for test bank__test1 in run: tests/environments/test3.xml
+10/23/2012 16:10:17   environment file read: tests/environments/test3.xml
+10/23/2012 16:10:17   banks read from directory: tests/banks/3/
+10/23/2012 16:10:17   read network of contracts: tests/networks/full-3_banks
+10/23/2012 16:10:17   created the network of contracts with 3 nodes and 6 links
+10/23/2012 16:10:17   created the network of exposures with 3 nodes
+10/23/2012 16:10:17 FINISHED logging for test updater__remove_inactive_bank in run: tests/environments/test3.xml 
+
+10/23/2012 16:10:38 START logging for test bank__test1 in run: tests/environments/test3.xml
+10/23/2012 16:10:38   environment file read: tests/environments/test3.xml
+10/23/2012 16:10:38   banks read from directory: tests/banks/3/
+10/23/2012 16:10:38   read network of contracts: tests/networks/full-3_banks
+10/23/2012 16:10:38   created the network of contracts with 3 nodes and 6 links
+10/23/2012 16:10:38   created the network of exposures with 3 nodes
+10/23/2012 16:10:38 FINISHED logging for test updater__remove_inactive_bank in run: tests/environments/test3.xml 
+
+10/23/2012 16:13:16 START logging for test bank__test1 in run: tests/environments/test3.xml
+10/23/2012 16:13:16   environment file read: tests/environments/test3.xml
+10/23/2012 16:13:16   banks read from directory: tests/banks/3/
+10/23/2012 16:13:16   read network of contracts: tests/networks/full-3_banks
+10/23/2012 16:13:16   created the network of contracts with 3 nodes and 6 links
+10/23/2012 16:13:16   created the network of exposures with 3 nodes
+10/23/2012 16:13:16 FINISHED logging for test updater__remove_inactive_bank in run: tests/environments/test3.xml 
+
+10/23/2012 16:14:35 START logging for test bank__test1 in run: tests/environments/test3.xml
+10/23/2012 16:14:35   environment file read: tests/environments/test3.xml
+10/23/2012 16:14:35   banks read from directory: tests/banks/3/
+10/23/2012 16:14:35   read network of contracts: tests/networks/full-3_banks
+10/23/2012 16:14:35   created the network of contracts with 3 nodes and 6 links
+10/23/2012 16:14:35   created the network of exposures with 3 nodes
+10/23/2012 16:14:35 FINISHED logging for test updater__remove_inactive_bank in run: tests/environments/test3.xml 
+
+10/23/2012 16:18:20 START logging for test bank__test1 in run: tests/environments/test3.xml
+10/23/2012 16:18:20   environment file read: tests/environments/test3.xml
+10/23/2012 16:18:20   banks read from directory: tests/banks/3/
+10/23/2012 16:18:20   read network of contracts: tests/networks/full-3_banks
+10/23/2012 16:18:20   created the network of contracts with 3 nodes and 6 links
+10/23/2012 16:18:20   created the network of exposures with 3 nodes
+10/23/2012 16:18:20 FINISHED logging for test bank__test1 in run: tests/environments/test3.xml 
+
+10/23/2012 16:30:33 START logging for test bank__test1 in run: tests/environments/test3.xml
+10/23/2012 16:30:33   environment file read: tests/environments/test3.xml
+10/23/2012 16:30:33   banks read from directory: tests/banks/3/
+10/23/2012 16:30:33   read network of contracts: tests/networks/full-3_banks
+10/23/2012 16:30:33   created the network of contracts with 3 nodes and 6 links
+10/23/2012 16:30:33   created the network of exposures with 3 nodes
+10/23/2012 16:30:33 FINISHED logging for test bank__test1 in run: tests/environments/test3.xml 
+
+10/23/2012 16:31:53 START logging for test bank__test1 in run: tests/environments/test3.xml
+10/23/2012 16:31:53   environment file read: tests/environments/test3.xml
+10/23/2012 16:31:53   banks read from directory: tests/banks/3/
+10/23/2012 16:31:53   read network of contracts: tests/networks/full-3_banks
+10/23/2012 16:31:53   created the network of contracts with 3 nodes and 6 links
+10/23/2012 16:31:53   created the network of exposures with 3 nodes
+10/23/2012 16:31:53 FINISHED logging for test bank__test1 in run: tests/environments/test3.xml 
+
+10/23/2012 16:32:47 START logging for test bank__test1 in run: tests/environments/test3.xml
+10/23/2012 16:32:47   environment file read: tests/environments/test3.xml
+10/23/2012 16:32:47   banks read from directory: tests/banks/3/
+10/23/2012 16:32:47   read network of contracts: tests/networks/full-3_banks
+10/23/2012 16:32:47   created the network of contracts with 3 nodes and 6 links
+10/23/2012 16:32:47   created the network of exposures with 3 nodes
+10/23/2012 16:32:47 FINISHED logging for test bank__test1 in run: tests/environments/test3.xml 
+
+10/23/2012 16:33:39 START logging for test bank__test1 in run: tests/environments/test3.xml
+10/23/2012 16:33:39   environment file read: tests/environments/test3.xml
+10/23/2012 16:33:39   banks read from directory: tests/banks/3/
+10/23/2012 16:33:39   read network of contracts: tests/networks/full-3_banks
+10/23/2012 16:33:39   created the network of contracts with 3 nodes and 6 links
+10/23/2012 16:33:39   created the network of exposures with 3 nodes
+10/23/2012 16:33:39 FINISHED logging for test bank__test1 in run: tests/environments/test3.xml 
+
+10/23/2012 16:34:12 START logging for test bank__test1 in run: tests/environments/test3.xml
+10/23/2012 16:34:12   environment file read: tests/environments/test3.xml
+10/23/2012 16:34:12   banks read from directory: tests/banks/3/
+10/23/2012 16:34:12   read network of contracts: tests/networks/full-3_banks
+10/23/2012 16:34:12   created the network of contracts with 3 nodes and 6 links
+10/23/2012 16:34:12   created the network of exposures with 3 nodes
+10/23/2012 16:34:12 FINISHED logging for test bank__test1 in run: tests/environments/test3.xml 
+
+10/23/2012 16:34:53 START logging for test bank__test1 in run: tests/environments/test3.xml
+10/23/2012 16:34:53   environment file read: tests/environments/test3.xml
+10/23/2012 16:34:53   banks read from directory: tests/banks/3/
+10/23/2012 16:34:53   read network of contracts: tests/networks/full-3_banks
+10/23/2012 16:34:53   created the network of contracts with 3 nodes and 6 links
+10/23/2012 16:34:53   created the network of exposures with 3 nodes
+10/23/2012 16:34:53 FINISHED logging for test bank__test1 in run: tests/environments/test3.xml 
+
+10/23/2012 16:35:40 START logging for test bank__test1 in run: tests/environments/test3.xml
+10/23/2012 16:35:40   environment file read: tests/environments/test3.xml
+10/23/2012 16:35:40   banks read from directory: tests/banks/3/
+10/23/2012 16:35:40   read network of contracts: tests/networks/full-3_banks
+10/23/2012 16:35:40   created the network of contracts with 3 nodes and 6 links
+10/23/2012 16:35:40   created the network of exposures with 3 nodes
+10/23/2012 16:35:40 FINISHED logging for test bank__test1 in run: tests/environments/test3.xml 
+
+10/23/2012 16:36:18 START logging for test bank__test1 in run: tests/environments/test3.xml
+10/23/2012 16:36:18   environment file read: tests/environments/test3.xml
+10/23/2012 16:36:18   banks read from directory: tests/banks/3/
+10/23/2012 16:36:18   read network of contracts: tests/networks/full-3_banks
+10/23/2012 16:36:18   created the network of contracts with 3 nodes and 6 links
+10/23/2012 16:36:18   created the network of exposures with 3 nodes
+10/23/2012 16:36:18 FINISHED logging for test bank__test1 in run: tests/environments/test3.xml 
+
+10/23/2012 16:36:48 START logging for test bank__test1 in run: tests/environments/test3.xml
+10/23/2012 16:36:48   environment file read: tests/environments/test3.xml
+10/23/2012 16:36:48   banks read from directory: tests/banks/3/
+10/23/2012 16:36:48   read network of contracts: tests/networks/full-3_banks
+10/23/2012 16:36:48   created the network of contracts with 3 nodes and 6 links
+10/23/2012 16:36:48   created the network of exposures with 3 nodes
+10/23/2012 16:36:48 FINISHED logging for test bank__test1 in run: tests/environments/test3.xml 
+
+10/23/2012 16:37:11 START logging for test bank__test1 in run: tests/environments/test3.xml
+10/23/2012 16:37:11   environment file read: tests/environments/test3.xml
+10/23/2012 16:37:11   banks read from directory: tests/banks/3/
+10/23/2012 16:37:11   read network of contracts: tests/networks/full-3_banks
+10/23/2012 16:37:11   created the network of contracts with 3 nodes and 6 links
+10/23/2012 16:37:11   created the network of exposures with 3 nodes
+10/23/2012 16:37:11 FINISHED logging for test bank__test1 in run: tests/environments/test3.xml 
+
+10/23/2012 16:38:33 START logging for test bank__test1 in run: tests/environments/test3.xml
+10/23/2012 16:38:33   environment file read: tests/environments/test3.xml
+10/23/2012 16:38:34   banks read from directory: tests/banks/3/
+10/23/2012 16:38:34   read network of contracts: tests/networks/full-3_banks
+10/23/2012 16:38:34   created the network of contracts with 3 nodes and 6 links
+10/23/2012 16:38:34   created the network of exposures with 3 nodes
+10/23/2012 16:38:34 FINISHED logging for test bank__test1 in run: tests/environments/test3.xml 
+
+10/23/2012 16:49:42 START logging for test bank__test1 in run: tests/environments/test3.xml
+10/23/2012 16:49:42   environment file read: tests/environments/test3.xml
+10/23/2012 16:49:43     ERROR: tests/banks/3/bank-2.xml could not be parsed
+10/23/2012 16:49:43     ERROR: tests/banks/3/bank-1.xml could not be parsed
+10/23/2012 16:49:43     ERROR: tests/banks/3/bank-0.xml could not be parsed
+10/23/2012 16:49:43   banks read from directory: tests/banks/3/
+10/23/2012 16:49:43   read network of contracts: tests/networks/full-3_banks
+10/23/2012 16:49:43   created the network of contracts with 3 nodes and 6 links
+10/23/2012 16:49:43   created the network of exposures with 3 nodes
+10/23/2012 16:50:32 START logging for test bank__test1 in run: tests/environments/test3.xml
+10/23/2012 16:50:32   environment file read: tests/environments/test3.xml
+10/23/2012 16:50:32     ERROR: tests/banks/3/bank-2.xml could not be parsed
+10/23/2012 16:50:32     ERROR: tests/banks/3/bank-1.xml could not be parsed
+10/23/2012 16:50:32     ERROR: tests/banks/3/bank-0.xml could not be parsed
+10/23/2012 16:50:32   banks read from directory: tests/banks/3/
+10/23/2012 16:50:32   read network of contracts: tests/networks/full-3_banks
+10/23/2012 16:50:32   created the network of contracts with 3 nodes and 6 links
+10/23/2012 16:50:32   created the network of exposures with 3 nodes
+10/23/2012 16:50:32 FINISHED logging for test bank__test1 in run: tests/environments/test3.xml 
+
+10/23/2012 16:51:43 START logging for test bank__test1 in run: tests/environments/test3.xml
+10/23/2012 16:51:43   environment file read: tests/environments/test3.xml
+10/23/2012 16:51:43     ERROR: tests/banks/3/bank-2.xml could not be parsed
+10/23/2012 16:51:43     ERROR: tests/banks/3/bank-1.xml could not be parsed
+10/23/2012 16:51:43     ERROR: tests/banks/3/bank-0.xml could not be parsed
+10/23/2012 16:51:43   banks read from directory: tests/banks/3/
+10/23/2012 16:51:43   read network of contracts: tests/networks/full-3_banks
+10/23/2012 16:51:43   created the network of contracts with 3 nodes and 6 links
+10/23/2012 16:51:43   created the network of exposures with 3 nodes
+10/23/2012 16:51:43 FINISHED logging for test bank__test1 in run: tests/environments/test3.xml 
+
+10/23/2012 16:52:29 START logging for test bank__test1 in run: tests/environments/test3.xml
+10/23/2012 16:52:29   environment file read: tests/environments/test3.xml
+10/23/2012 16:52:29     ERROR: tests/banks/3/bank-2.xml could not be parsed
+10/23/2012 16:52:29     ERROR: tests/banks/3/bank-1.xml could not be parsed
+10/23/2012 16:52:29     ERROR: tests/banks/3/bank-0.xml could not be parsed
+10/23/2012 16:52:29   banks read from directory: tests/banks/3/
+10/23/2012 16:52:29   read network of contracts: tests/networks/full-3_banks
+10/23/2012 16:52:29   created the network of contracts with 3 nodes and 6 links
+10/23/2012 16:52:29   created the network of exposures with 3 nodes
+10/23/2012 16:52:29 FINISHED logging for test bank__test1 in run: tests/environments/test3.xml 
+
+10/23/2012 16:52:40 START logging for test bank__test1 in run: tests/environments/test3.xml
+10/23/2012 16:52:40   environment file read: tests/environments/test3.xml
+10/23/2012 16:52:40     ERROR: tests/banks/3/bank-2.xml could not be parsed
+10/23/2012 16:52:40     ERROR: tests/banks/3/bank-1.xml could not be parsed
+10/23/2012 16:52:40     ERROR: tests/banks/3/bank-0.xml could not be parsed
+10/23/2012 16:52:40   banks read from directory: tests/banks/3/
+10/23/2012 16:52:40   read network of contracts: tests/networks/full-3_banks
+10/23/2012 16:52:40   created the network of contracts with 3 nodes and 6 links
+10/23/2012 16:52:40   created the network of exposures with 3 nodes
+10/23/2012 16:52:40 FINISHED logging for test bank__test1 in run: tests/environments/test3.xml 
+
+10/23/2012 16:52:56 START logging for test bank__test1 in run: tests/environments/test3.xml
+10/23/2012 16:52:56   environment file read: tests/environments/test3.xml
+10/23/2012 16:52:56     ERROR: tests/banks/3/bank-2.xml could not be parsed
+10/23/2012 16:52:56     ERROR: tests/banks/3/bank-1.xml could not be parsed
+10/23/2012 16:52:56     ERROR: tests/banks/3/bank-0.xml could not be parsed
+10/23/2012 16:52:56   banks read from directory: tests/banks/3/
+10/23/2012 16:52:56   read network of contracts: tests/networks/full-3_banks
+10/23/2012 16:52:56   created the network of contracts with 3 nodes and 6 links
+10/23/2012 16:52:56   created the network of exposures with 3 nodes
+10/23/2012 16:52:56 FINISHED logging for test bank__test1 in run: tests/environments/test3.xml 
+
+10/23/2012 16:53:16 START logging for test bank__test1 in run: tests/environments/test3.xml
+10/23/2012 16:53:16   environment file read: tests/environments/test3.xml
+10/23/2012 16:53:16     ERROR: tests/banks/3/bank-2.xml could not be parsed
+10/23/2012 16:53:16     ERROR: tests/banks/3/bank-1.xml could not be parsed
+10/23/2012 16:53:16     ERROR: tests/banks/3/bank-0.xml could not be parsed
+10/23/2012 16:53:16   banks read from directory: tests/banks/3/
+10/23/2012 16:53:16   read network of contracts: tests/networks/full-3_banks
+10/23/2012 16:53:16   created the network of contracts with 3 nodes and 6 links
+10/23/2012 16:53:16   created the network of exposures with 3 nodes
+10/23/2012 16:53:16 FINISHED logging for test bank__test1 in run: tests/environments/test3.xml 
+
+10/23/2012 16:53:36 START logging for test bank__test1 in run: tests/environments/test3.xml
+10/23/2012 16:53:36   environment file read: tests/environments/test3.xml
+10/23/2012 16:53:37     ERROR: tests/banks/3/bank-2.xml could not be parsed
+10/23/2012 16:53:37     ERROR: tests/banks/3/bank-1.xml could not be parsed
+10/23/2012 16:53:37     ERROR: tests/banks/3/bank-0.xml could not be parsed
+10/23/2012 16:53:37   banks read from directory: tests/banks/3/
+10/23/2012 16:53:37   read network of contracts: tests/networks/full-3_banks
+10/23/2012 16:53:37   created the network of contracts with 3 nodes and 6 links
+10/23/2012 16:53:37   created the network of exposures with 3 nodes
+10/23/2012 16:53:37 FINISHED logging for test bank__test1 in run: tests/environments/test3.xml 
+
+10/23/2012 16:53:56 START logging for test bank__test1 in run: tests/environments/test3.xml
+10/23/2012 16:53:56   environment file read: tests/environments/test3.xml
+10/23/2012 16:53:56     ERROR: tests/banks/3/bank-2.xml could not be parsed
+10/23/2012 16:53:56     ERROR: tests/banks/3/bank-1.xml could not be parsed
+10/23/2012 16:53:56     ERROR: tests/banks/3/bank-0.xml could not be parsed
+10/23/2012 16:53:56   banks read from directory: tests/banks/3/
+10/23/2012 16:53:56   read network of contracts: tests/networks/full-3_banks
+10/23/2012 16:53:56   created the network of contracts with 3 nodes and 6 links
+10/23/2012 16:53:56   created the network of exposures with 3 nodes
+10/23/2012 16:53:56 FINISHED logging for test bank__test1 in run: tests/environments/test3.xml 
+
+10/23/2012 16:55:28 START logging for test bank__test1 in run: tests/environments/test3.xml
+10/23/2012 16:55:28   environment file read: tests/environments/test3.xml
+10/23/2012 16:55:28     ERROR: tests/banks/3/bank-2.xml could not be parsed
+10/23/2012 16:55:28     ERROR: tests/banks/3/bank-1.xml could not be parsed
+10/23/2012 16:55:28     ERROR: tests/banks/3/bank-0.xml could not be parsed
+10/23/2012 16:55:28   banks read from directory: tests/banks/3/
+10/23/2012 16:55:28   read network of contracts: tests/networks/full-3_banks
+10/23/2012 16:55:28   created the network of contracts with 3 nodes and 6 links
+10/23/2012 16:55:28   created the network of exposures with 3 nodes
+10/23/2012 16:55:28 FINISHED logging for test bank__test1 in run: tests/environments/test3.xml 
+
+10/23/2012 16:56:04 START logging for test bank__test1 in run: tests/environments/test3.xml
+10/23/2012 16:56:04   environment file read: tests/environments/test3.xml
+10/23/2012 16:56:04     ERROR: tests/banks/3/bank-2.xml could not be parsed
+10/23/2012 16:56:04     ERROR: tests/banks/3/bank-1.xml could not be parsed
+10/23/2012 16:56:04     ERROR: tests/banks/3/bank-0.xml could not be parsed
+10/23/2012 16:56:04   banks read from directory: tests/banks/3/
+10/23/2012 16:56:04   read network of contracts: tests/networks/full-3_banks
+10/23/2012 16:56:04   created the network of contracts with 3 nodes and 6 links
+10/23/2012 16:56:04   created the network of exposures with 3 nodes
+10/23/2012 16:56:04 FINISHED logging for test bank__test1 in run: tests/environments/test3.xml 
+
+10/23/2012 16:57:21 START logging for test bank__test1 in run: tests/environments/test3.xml
+10/23/2012 16:57:21   environment file read: tests/environments/test3.xml
+10/23/2012 16:57:21   banks read from directory: tests/banks/3/
+10/23/2012 16:57:21   read network of contracts: tests/networks/full-3_banks
+10/23/2012 16:57:21   created the network of contracts with 3 nodes and 6 links
+10/23/2012 16:57:22   created the network of exposures with 3 nodes
+10/23/2012 16:57:22 FINISHED logging for test bank__test1 in run: tests/environments/test3.xml 
+
+10/23/2012 16:58:23 START logging for test bank__test1 in run: tests/environments/test3.xml
+10/23/2012 16:58:23   environment file read: tests/environments/test3.xml
+10/23/2012 16:58:24   banks read from directory: tests/banks/3/
+10/23/2012 16:58:24   read network of contracts: tests/networks/full-3_banks
+10/23/2012 16:58:24   created the network of contracts with 3 nodes and 6 links
+10/23/2012 16:58:24   created the network of exposures with 3 nodes
+10/23/2012 16:58:24 FINISHED logging for test bank__test1 in run: tests/environments/test3.xml 
+
+10/23/2012 17:02:34 START logging for test bank__test1 in run: tests/environments/test3.xml
+10/23/2012 17:02:34   environment file read: tests/environments/test3.xml
+10/23/2012 17:02:34   banks read from directory: tests/banks/3/
+10/23/2012 17:02:34   read network of contracts: tests/networks/full-3_banks
+10/23/2012 17:02:34   created the network of contracts with 3 nodes and 6 links
+10/23/2012 17:02:34   created the network of exposures with 3 nodes
+10/23/2012 17:02:34 FINISHED logging for test bank__test1 in run: tests/environments/test3.xml 
+
+10/23/2012 17:04:40 START logging for test bank__test1 in run: tests/environments/test3.xml
+10/23/2012 17:04:40   environment file read: tests/environments/test3.xml
+10/23/2012 17:04:40   banks read from directory: tests/banks/3/
+10/23/2012 17:04:40   read network of contracts: tests/networks/full-3_banks
+10/23/2012 17:04:40   created the network of contracts with 3 nodes and 6 links
+10/23/2012 17:04:40   created the network of exposures with 3 nodes
+10/23/2012 17:04:41 FINISHED logging for test bank__test1 in run: tests/environments/test3.xml 
+
+10/25/2012 09:49:47 START logging for test bank__test1 in run: tests/environments/test3.xml
+10/25/2012 09:49:47   environment file read: tests/environments/test3.xml
+10/25/2012 09:49:48   banks read from directory: tests/banks/3/
+10/25/2012 09:49:48   read network of contracts: tests/networks/full-3_banks
+10/25/2012 09:49:48   created the network of contracts with 3 nodes and 6 links
+10/25/2012 09:49:48   created the network of exposures with 3 nodes
+10/25/2012 09:49:48 FINISHED logging for test bank__test1 in run: tests/environments/test3.xml 
+
+10/25/2012 09:50:54 START logging for test bank__update_maturity in run: tests/environments/test3.xml
+10/25/2012 09:50:54   environment file read: tests/environments/test3.xml
+10/25/2012 09:50:54   banks read from directory: tests/banks/3/
+10/25/2012 09:50:54   read network of contracts: tests/networks/full-3_banks
+10/25/2012 09:50:54   created the network of contracts with 3 nodes and 6 links
+10/25/2012 09:50:54   created the network of exposures with 3 nodes
+10/25/2012 09:54:29 START logging for test bank__update_maturity in run: tests/environments/test3.xml
+10/25/2012 09:54:29   environment file read: tests/environments/test3.xml
+10/25/2012 09:54:29   banks read from directory: tests/banks/3/
+10/25/2012 09:54:29   read network of contracts: tests/networks/full-3_banks
+10/25/2012 09:54:29   created the network of contracts with 3 nodes and 6 links
+10/25/2012 09:54:29   created the network of exposures with 3 nodes
+10/25/2012 09:54:56 START logging for test bank__update_maturity in run: tests/environments/test3.xml
+10/25/2012 09:54:56   environment file read: tests/environments/test3.xml
+10/25/2012 09:54:56   banks read from directory: tests/banks/3/
+10/25/2012 09:54:56   read network of contracts: tests/networks/full-3_banks
+10/25/2012 09:54:56   created the network of contracts with 3 nodes and 6 links
+10/25/2012 09:54:56   created the network of exposures with 3 nodes
+10/25/2012 09:56:15 START logging for test bank__update_maturity in run: tests/environments/test3.xml
+10/25/2012 09:56:15   environment file read: tests/environments/test3.xml
+10/25/2012 09:56:15   banks read from directory: tests/banks/3/
+10/25/2012 09:56:15   read network of contracts: tests/networks/full-3_banks
+10/25/2012 09:56:15   created the network of contracts with 3 nodes and 6 links
+10/25/2012 09:56:15   created the network of exposures with 3 nodes
+10/25/2012 09:56:30 START logging for test bank__update_maturity in run: tests/environments/test3.xml
+10/25/2012 09:56:30   environment file read: tests/environments/test3.xml
+10/25/2012 09:56:30   banks read from directory: tests/banks/3/
+10/25/2012 09:56:30   read network of contracts: tests/networks/full-3_banks
+10/25/2012 09:56:30   created the network of contracts with 3 nodes and 6 links
+10/25/2012 09:56:30   created the network of exposures with 3 nodes
+10/25/2012 09:58:22 START logging for test bank__update_maturity in run: tests/environments/test3.xml
+10/25/2012 09:58:22   environment file read: tests/environments/test3.xml
+10/25/2012 09:58:22   banks read from directory: tests/banks/3/
+10/25/2012 09:58:22   read network of contracts: tests/networks/full-3_banks
+10/25/2012 09:58:22   created the network of contracts with 3 nodes and 6 links
+10/25/2012 09:58:23   created the network of exposures with 3 nodes
+10/25/2012 09:59:26 START logging for test bank__update_maturity in run: tests/environments/test3.xml
+10/25/2012 09:59:26   environment file read: tests/environments/test3.xml
+10/25/2012 09:59:27   banks read from directory: tests/banks/3/
+10/25/2012 09:59:27   read network of contracts: tests/networks/full-3_banks
+10/25/2012 09:59:27   created the network of contracts with 3 nodes and 6 links
+10/25/2012 09:59:27   created the network of exposures with 3 nodes
+10/25/2012 10:00:59 START logging for test bank__update_maturity in run: tests/environments/test3.xml
+10/25/2012 10:00:59   environment file read: tests/environments/test3.xml
+10/25/2012 10:00:59   banks read from directory: tests/banks/3/
+10/25/2012 10:00:59   read network of contracts: tests/networks/full-3_banks
+10/25/2012 10:00:59   created the network of contracts with 3 nodes and 6 links
+10/25/2012 10:00:59   created the network of exposures with 3 nodes
+10/25/2012 10:04:18 START logging for test bank__update_maturity in run: tests/environments/test3.xml
+10/25/2012 10:04:18   environment file read: tests/environments/test3.xml
+10/25/2012 10:04:18   banks read from directory: tests/banks/3/
+10/25/2012 10:04:18   read network of contracts: tests/networks/full-3_banks
+10/25/2012 10:04:18   created the network of contracts with 3 nodes and 6 links
+10/25/2012 10:04:18   created the network of exposures with 3 nodes
+10/25/2012 10:15:40 START logging for test bank__update_maturity in run: tests/environments/test3.xml
+10/25/2012 10:15:40   environment file read: tests/environments/test3.xml
+10/25/2012 10:15:40   banks read from directory: tests/banks/3/
+10/25/2012 10:15:40   read network of contracts: tests/networks/full-3_banks
+10/25/2012 10:15:40   created the network of contracts with 3 nodes and 6 links
+10/25/2012 10:15:40   created the network of exposures with 3 nodes
+10/25/2012 10:16:39 START logging for test bank__update_maturity in run: tests/environments/test3.xml
+10/25/2012 10:16:39   environment file read: tests/environments/test3.xml
+10/25/2012 10:16:39   banks read from directory: tests/banks/3/
+10/25/2012 10:16:39   read network of contracts: tests/networks/full-3_banks
+10/25/2012 10:16:39   created the network of contracts with 3 nodes and 6 links
+10/25/2012 10:16:39   created the network of exposures with 3 nodes
+10/25/2012 10:17:31 START logging for test bank__update_maturity in run: tests/environments/test3.xml
+10/25/2012 10:17:31   environment file read: tests/environments/test3.xml
+10/25/2012 10:17:31   banks read from directory: tests/banks/3/
+10/25/2012 10:17:31   read network of contracts: tests/networks/full-3_banks
+10/25/2012 10:17:31   created the network of contracts with 3 nodes and 6 links
+10/25/2012 10:17:31   created the network of exposures with 3 nodes
+10/25/2012 10:18:41 START logging for test bank__update_maturity in run: tests/environments/test3.xml
+10/25/2012 10:18:41   environment file read: tests/environments/test3.xml
+10/25/2012 10:18:41   banks read from directory: tests/banks/3/
+10/25/2012 10:18:41   read network of contracts: tests/networks/full-3_banks
+10/25/2012 10:18:41   created the network of contracts with 3 nodes and 6 links
+10/25/2012 10:18:41   created the network of exposures with 3 nodes
+10/25/2012 10:23:14 START logging for test bank__update_maturity in run: tests/environments/test3.xml
+10/25/2012 10:23:14   environment file read: tests/environments/test3.xml
+10/25/2012 10:23:14   banks read from directory: tests/banks/3/
+10/25/2012 10:23:14   read network of contracts: tests/networks/full-3_banks
+10/25/2012 10:23:14   created the network of contracts with 3 nodes and 6 links
+10/25/2012 10:23:14   created the network of exposures with 3 nodes
+10/25/2012 10:23:31 START logging for test bank__update_maturity in run: tests/environments/test3.xml
+10/25/2012 10:23:31   environment file read: tests/environments/test3.xml
+10/25/2012 10:23:31   banks read from directory: tests/banks/3/
+10/25/2012 10:23:31   read network of contracts: tests/networks/full-3_banks
+10/25/2012 10:23:32   created the network of contracts with 3 nodes and 6 links
+10/25/2012 10:23:32   created the network of exposures with 3 nodes
+10/25/2012 10:23:51 START logging for test bank__update_maturity in run: tests/environments/test3.xml
+10/25/2012 10:23:51   environment file read: tests/environments/test3.xml
+10/25/2012 10:23:51   banks read from directory: tests/banks/3/
+10/25/2012 10:23:51   read network of contracts: tests/networks/full-3_banks
+10/25/2012 10:23:51   created the network of contracts with 3 nodes and 6 links
+10/25/2012 10:23:51   created the network of exposures with 3 nodes
+10/25/2012 10:24:15 START logging for test bank__update_maturity in run: tests/environments/test3.xml
+10/25/2012 10:24:15   environment file read: tests/environments/test3.xml
+10/25/2012 10:24:15   banks read from directory: tests/banks/3/
+10/25/2012 10:24:15   read network of contracts: tests/networks/full-3_banks
+10/25/2012 10:24:15   created the network of contracts with 3 nodes and 6 links
+10/25/2012 10:24:15   created the network of exposures with 3 nodes
+10/25/2012 11:06:51 START logging for test bank__update_maturity in run: tests/environments/test3.xml
+10/25/2012 11:06:51   environment file read: tests/environments/test3.xml
+10/25/2012 11:06:51   banks read from directory: tests/banks/3/
+10/25/2012 11:06:51   read network of contracts: tests/networks/full-3_banks
+10/25/2012 11:06:51   created the network of contracts with 3 nodes and 6 links
+10/25/2012 11:06:51   created the network of exposures with 3 nodes
+10/25/2012 11:29:40 START logging for test bank__update_maturity in run: tests/environments/test3.xml
+10/25/2012 11:29:40   environment file read: tests/environments/test3.xml
+10/25/2012 11:29:40   banks read from directory: tests/banks/3/
+10/25/2012 11:29:40   read network of contracts: tests/networks/full-3_banks
+10/25/2012 11:29:40   created the network of contracts with 3 nodes and 6 links
+10/25/2012 11:29:40   created the network of exposures with 3 nodes
+10/25/2012 11:37:35 START logging for test bank__update_maturity in run: tests/environments/test3.xml
+10/25/2012 11:37:35   environment file read: tests/environments/test3.xml
+10/25/2012 11:37:35   banks read from directory: tests/banks/3/
+10/25/2012 11:37:35   read network of contracts: tests/networks/full-3_banks
+10/25/2012 11:37:35   created the network of contracts with 3 nodes and 6 links
+10/25/2012 11:37:35   created the network of exposures with 3 nodes
+10/25/2012 11:40:02 START logging for test bank__update_maturity in run: tests/environments/test3.xml
+10/25/2012 11:40:02   environment file read: tests/environments/test3.xml
+10/25/2012 11:40:02   banks read from directory: tests/banks/3/
+10/25/2012 11:40:02   read network of contracts: tests/networks/full-3_banks
+10/25/2012 11:40:02   created the network of contracts with 3 nodes and 6 links
+10/25/2012 11:40:02   created the network of exposures with 3 nodes
+10/25/2012 11:46:33 START logging for test bank__update_maturity in run: tests/environments/test3.xml
+10/25/2012 11:46:33   environment file read: tests/environments/test3.xml
+10/25/2012 11:46:33   banks read from directory: tests/banks/3/
+10/25/2012 11:46:33   read network of contracts: tests/networks/full-3_banks
+10/25/2012 11:46:33   created the network of contracts with 3 nodes and 6 links
+10/25/2012 11:46:33   created the network of exposures with 3 nodes
+10/25/2012 11:47:10 START logging for test bank__update_maturity in run: tests/environments/test3.xml
+10/25/2012 11:47:10   environment file read: tests/environments/test3.xml
+10/25/2012 11:47:10   banks read from directory: tests/banks/3/
+10/25/2012 11:47:10   read network of contracts: tests/networks/full-3_banks
+10/25/2012 11:47:10   created the network of contracts with 3 nodes and 6 links
+10/25/2012 11:47:10   created the network of exposures with 3 nodes
+10/25/2012 11:48:18 START logging for test bank__update_maturity in run: tests/environments/test3.xml
+10/25/2012 11:48:19   environment file read: tests/environments/test3.xml
+10/25/2012 11:48:19   banks read from directory: tests/banks/3/
+10/25/2012 11:48:19   read network of contracts: tests/networks/full-3_banks
+10/25/2012 11:48:19   created the network of contracts with 3 nodes and 6 links
+10/25/2012 11:48:19   created the network of exposures with 3 nodes
+10/25/2012 11:48:59 START logging for test bank__update_maturity in run: tests/environments/test3.xml
+10/25/2012 11:48:59   environment file read: tests/environments/test3.xml
+10/25/2012 11:48:59   banks read from directory: tests/banks/3/
+10/25/2012 11:48:59   read network of contracts: tests/networks/full-3_banks
+10/25/2012 11:48:59   created the network of contracts with 3 nodes and 6 links
+10/25/2012 11:48:59   created the network of exposures with 3 nodes
+10/25/2012 13:06:51 START logging for test bank__update_maturity in run: tests/environments/test3.xml
+10/25/2012 13:06:51   environment file read: tests/environments/test3.xml
+10/25/2012 13:06:51   banks read from directory: tests/banks/3/
+10/25/2012 13:06:51   read network of contracts: tests/networks/full-3_banks
+10/25/2012 13:06:51   created the network of contracts with 3 nodes and 6 links
+10/25/2012 13:06:51   created the network of exposures with 3 nodes
+10/25/2012 13:11:19 START logging for test bank__update_maturity in run: tests/environments/test3.xml
+10/25/2012 13:11:19   environment file read: tests/environments/test3.xml
+10/25/2012 13:11:19   banks read from directory: tests/banks/3/
+10/25/2012 13:11:19   read network of contracts: tests/networks/full-3_banks
+10/25/2012 13:11:19   created the network of contracts with 3 nodes and 6 links
+10/25/2012 13:11:19   created the network of exposures with 3 nodes
+10/25/2012 13:12:35 START logging for test bank__update_maturity in run: tests/environments/test3.xml
+10/25/2012 13:12:35   environment file read: tests/environments/test3.xml
+10/25/2012 13:12:35   banks read from directory: tests/banks/3/
+10/25/2012 13:12:35   read network of contracts: tests/networks/full-3_banks
+10/25/2012 13:12:35   created the network of contracts with 3 nodes and 6 links
+10/25/2012 13:12:35   created the network of exposures with 3 nodes
+10/25/2012 13:14:17 START logging for test bank__update_maturity in run: tests/environments/test3.xml
+10/25/2012 13:14:17   environment file read: tests/environments/test3.xml
+10/25/2012 13:14:17   banks read from directory: tests/banks/3/
+10/25/2012 13:14:17   read network of contracts: tests/networks/full-3_banks
+10/25/2012 13:14:17   created the network of contracts with 3 nodes and 6 links
+10/25/2012 13:14:17   created the network of exposures with 3 nodes
+10/25/2012 13:15:13 START logging for test bank__update_maturity in run: tests/environments/test3.xml
+10/25/2012 13:15:13   environment file read: tests/environments/test3.xml
+10/25/2012 13:15:13   banks read from directory: tests/banks/3/
+10/25/2012 13:15:13   read network of contracts: tests/networks/full-3_banks
+10/25/2012 13:15:13   created the network of contracts with 3 nodes and 6 links
+10/25/2012 13:15:13   created the network of exposures with 3 nodes
+10/25/2012 13:16:25 START logging for test bank__update_maturity in run: tests/environments/test3.xml
+10/25/2012 13:16:25   environment file read: tests/environments/test3.xml
+10/25/2012 13:16:25   banks read from directory: tests/banks/3/
+10/25/2012 13:16:26   read network of contracts: tests/networks/full-3_banks
+10/25/2012 13:16:26   created the network of contracts with 3 nodes and 6 links
+10/25/2012 13:16:26   created the network of exposures with 3 nodes
+10/25/2012 13:17:32 START logging for test bank__update_maturity in run: tests/environments/test3.xml
+10/25/2012 13:17:32   environment file read: tests/environments/test3.xml
+10/25/2012 13:17:32   banks read from directory: tests/banks/3/
+10/25/2012 13:17:32   read network of contracts: tests/networks/full-3_banks
+10/25/2012 13:17:32   created the network of contracts with 3 nodes and 6 links
+10/25/2012 13:17:32   created the network of exposures with 3 nodes
+10/25/2012 13:21:36 START logging for test bank__update_maturity in run: tests/environments/test3.xml
+10/25/2012 13:21:36   environment file read: tests/environments/test3.xml
+10/25/2012 13:21:37   banks read from directory: tests/banks/3/
+10/25/2012 13:21:37   read network of contracts: tests/networks/full-3_banks
+10/25/2012 13:21:37   created the network of contracts with 3 nodes and 6 links
+10/25/2012 13:21:37   created the network of exposures with 3 nodes
+10/25/2012 13:22:11 START logging for test bank__update_maturity in run: tests/environments/test3.xml
+10/25/2012 13:22:11   environment file read: tests/environments/test3.xml
+10/25/2012 13:22:11   banks read from directory: tests/banks/3/
+10/25/2012 13:22:11   read network of contracts: tests/networks/full-3_banks
+10/25/2012 13:22:11   created the network of contracts with 3 nodes and 6 links
+10/25/2012 13:22:11   created the network of exposures with 3 nodes
+10/25/2012 13:22:40 START logging for test bank__update_maturity in run: tests/environments/test3.xml
+10/25/2012 13:22:40   environment file read: tests/environments/test3.xml
+10/25/2012 13:22:40   banks read from directory: tests/banks/3/
+10/25/2012 13:22:40   read network of contracts: tests/networks/full-3_banks
+10/25/2012 13:22:40   created the network of contracts with 3 nodes and 6 links
+10/25/2012 13:22:40   created the network of exposures with 3 nodes
+10/25/2012 13:50:44 START logging for test bank__update_maturity in run: tests/environments/test3.xml
+10/25/2012 13:50:44   environment file read: tests/environments/test3.xml
+10/25/2012 13:50:44   banks read from directory: tests/banks/3/
+10/25/2012 13:50:44   read network of contracts: tests/networks/full-3_banks
+10/25/2012 13:50:44   created the network of contracts with 3 nodes and 6 links
+10/25/2012 13:50:44   created the network of exposures with 3 nodes
+10/25/2012 13:52:16 START logging for test bank__update_maturity in run: tests/environments/test3.xml
+10/25/2012 13:52:16   environment file read: tests/environments/test3.xml
+10/25/2012 13:52:16   banks read from directory: tests/banks/3/
+10/25/2012 13:52:16   read network of contracts: tests/networks/full-3_banks
+10/25/2012 13:52:16   created the network of contracts with 3 nodes and 6 links
+10/25/2012 13:52:16   created the network of exposures with 3 nodes
+10/25/2012 13:56:44 START logging for test bank__update_maturity in run: tests/environments/test3.xml
+10/25/2012 13:56:44   environment file read: tests/environments/test3.xml
+10/25/2012 13:56:44   banks read from directory: tests/banks/3/
+10/25/2012 13:56:44   read network of contracts: tests/networks/full-3_banks
+10/25/2012 13:56:44   created the network of contracts with 3 nodes and 6 links
+10/25/2012 13:56:44   created the network of exposures with 3 nodes
+10/25/2012 13:57:10 START logging for test bank__update_maturity in run: tests/environments/test3.xml
+10/25/2012 13:57:10   environment file read: tests/environments/test3.xml
+10/25/2012 13:57:10   banks read from directory: tests/banks/3/
+10/25/2012 13:57:10   read network of contracts: tests/networks/full-3_banks
+10/25/2012 13:57:10   created the network of contracts with 3 nodes and 6 links
+10/25/2012 13:57:10   created the network of exposures with 3 nodes
+10/25/2012 13:59:24 START logging for test bank__update_maturity in run: tests/environments/test3.xml
+10/25/2012 13:59:24   environment file read: tests/environments/test3.xml
+10/25/2012 13:59:24   banks read from directory: tests/banks/3/
+10/25/2012 13:59:24   read network of contracts: tests/networks/full-3_banks
+10/25/2012 13:59:24   created the network of contracts with 3 nodes and 6 links
+10/25/2012 13:59:24   created the network of exposures with 3 nodes
+10/25/2012 13:59:59 START logging for test bank__update_maturity in run: tests/environments/test3.xml
+10/25/2012 13:59:59   environment file read: tests/environments/test3.xml
+10/25/2012 13:59:59   banks read from directory: tests/banks/3/
+10/25/2012 13:59:59   read network of contracts: tests/networks/full-3_banks
+10/25/2012 13:59:59   created the network of contracts with 3 nodes and 6 links
+10/25/2012 13:59:59   created the network of exposures with 3 nodes
+10/25/2012 14:01:12 START logging for test bank__update_maturity in run: tests/environments/test3.xml
+10/25/2012 14:01:12   environment file read: tests/environments/test3.xml
+10/25/2012 14:01:12   banks read from directory: tests/banks/3/
+10/25/2012 14:01:12   read network of contracts: tests/networks/full-3_banks
+10/25/2012 14:01:12   created the network of contracts with 3 nodes and 6 links
+10/25/2012 14:01:12   created the network of exposures with 3 nodes
+10/25/2012 14:02:50 START logging for test bank__update_maturity in run: tests/environments/test3.xml
+10/25/2012 14:02:50   environment file read: tests/environments/test3.xml
+10/25/2012 14:02:50   banks read from directory: tests/banks/3/
+10/25/2012 14:02:50   read network of contracts: tests/networks/full-3_banks
+10/25/2012 14:02:50   created the network of contracts with 3 nodes and 6 links
+10/25/2012 14:02:50   created the network of exposures with 3 nodes
+10/25/2012 14:03:12 START logging for test bank__update_maturity in run: tests/environments/test3.xml
+10/25/2012 14:03:12   environment file read: tests/environments/test3.xml
+10/25/2012 14:03:12   banks read from directory: tests/banks/3/
+10/25/2012 14:03:12   read network of contracts: tests/networks/full-3_banks
+10/25/2012 14:03:12   created the network of contracts with 3 nodes and 6 links
+10/25/2012 14:03:12   created the network of exposures with 3 nodes
+10/25/2012 14:03:57 START logging for test bank__update_maturity in run: tests/environments/test3.xml
+10/25/2012 14:03:57   environment file read: tests/environments/test3.xml
+10/25/2012 14:03:57   banks read from directory: tests/banks/3/
+10/25/2012 14:03:57   read network of contracts: tests/networks/full-3_banks
+10/25/2012 14:03:57   created the network of contracts with 3 nodes and 6 links
+10/25/2012 14:03:57   created the network of exposures with 3 nodes
+10/25/2012 14:05:04 START logging for test bank__update_maturity in run: tests/environments/test3.xml
+10/25/2012 14:05:04   environment file read: tests/environments/test3.xml
+10/25/2012 14:05:04   banks read from directory: tests/banks/3/
+10/25/2012 14:05:04   read network of contracts: tests/networks/full-3_banks
+10/25/2012 14:05:04   created the network of contracts with 3 nodes and 6 links
+10/25/2012 14:05:04   created the network of exposures with 3 nodes
+10/25/2012 14:07:45 START logging for test bank__update_maturity in run: tests/environments/test3.xml
+10/25/2012 14:07:45   environment file read: tests/environments/test3.xml
+10/25/2012 14:07:45   banks read from directory: tests/banks/3/
+10/25/2012 14:07:45   read network of contracts: tests/networks/full-3_banks
+10/25/2012 14:07:45   created the network of contracts with 3 nodes and 6 links
+10/25/2012 14:07:45   created the network of exposures with 3 nodes
+10/25/2012 14:08:22 START logging for test bank__update_maturity in run: tests/environments/test3.xml
+10/25/2012 14:08:22   environment file read: tests/environments/test3.xml
+10/25/2012 14:08:22   banks read from directory: tests/banks/3/
+10/25/2012 14:08:22   read network of contracts: tests/networks/full-3_banks
+10/25/2012 14:08:22   created the network of contracts with 3 nodes and 6 links
+10/25/2012 14:08:22   created the network of exposures with 3 nodes
+10/25/2012 14:09:05 START logging for test bank__update_maturity in run: tests/environments/test3.xml
+10/25/2012 14:09:05   environment file read: tests/environments/test3.xml
+10/25/2012 14:09:05   banks read from directory: tests/banks/3/
+10/25/2012 14:09:05   read network of contracts: tests/networks/full-3_banks
+10/25/2012 14:09:05   created the network of contracts with 3 nodes and 6 links
+10/25/2012 14:09:05   created the network of exposures with 3 nodes
+10/25/2012 14:10:20 START logging for test bank__update_maturity in run: tests/environments/test3.xml
+10/25/2012 14:10:20   environment file read: tests/environments/test3.xml
+10/25/2012 14:10:21   banks read from directory: tests/banks/3/
+10/25/2012 14:10:21   read network of contracts: tests/networks/full-3_banks
+10/25/2012 14:10:21   created the network of contracts with 3 nodes and 6 links
+10/25/2012 14:10:21   created the network of exposures with 3 nodes
+10/25/2012 14:11:58 START logging for test bank__update_maturity in run: tests/environments/test3.xml
+10/25/2012 14:11:58   environment file read: tests/environments/test3.xml
+10/25/2012 14:11:58   banks read from directory: tests/banks/3/
+10/25/2012 14:11:58   read network of contracts: tests/networks/full-3_banks
+10/25/2012 14:11:58   created the network of contracts with 3 nodes and 6 links
+10/25/2012 14:11:58   created the network of exposures with 3 nodes
+10/25/2012 14:13:03 START logging for test bank__update_maturity in run: tests/environments/test3.xml
+10/25/2012 14:13:03   environment file read: tests/environments/test3.xml
+10/25/2012 14:13:03   banks read from directory: tests/banks/3/
+10/25/2012 14:13:03   read network of contracts: tests/networks/full-3_banks
+10/25/2012 14:13:03   created the network of contracts with 3 nodes and 6 links
+10/25/2012 14:13:03   created the network of exposures with 3 nodes
+10/25/2012 14:27:33 START logging for test bank__update_maturity in run: tests/environments/test3.xml
+10/25/2012 14:27:33   environment file read: tests/environments/test3.xml
+10/25/2012 14:27:33   banks read from directory: tests/banks/3/
+10/25/2012 14:27:33   read network of contracts: tests/networks/full-3_banks
+10/25/2012 14:27:33   created the network of contracts with 3 nodes and 6 links
+10/25/2012 14:27:33   created the network of exposures with 3 nodes
+10/25/2012 14:31:47 START logging for test bank__update_maturity in run: tests/environments/test3.xml
+10/25/2012 14:31:47   environment file read: tests/environments/test3.xml
+10/25/2012 14:31:47   banks read from directory: tests/banks/3/
+10/25/2012 14:31:47   read network of contracts: tests/networks/full-3_banks
+10/25/2012 14:31:47   created the network of contracts with 3 nodes and 6 links
+10/25/2012 14:31:47   created the network of exposures with 3 nodes
+10/25/2012 14:32:11 START logging for test bank__update_maturity in run: tests/environments/test3.xml
+10/25/2012 14:32:11   environment file read: tests/environments/test3.xml
+10/25/2012 14:32:12   banks read from directory: tests/banks/3/
+10/25/2012 14:32:12   read network of contracts: tests/networks/full-3_banks
+10/25/2012 14:32:12   created the network of contracts with 3 nodes and 6 links
+10/25/2012 14:32:12   created the network of exposures with 3 nodes
+10/25/2012 14:32:41 START logging for test bank__update_maturity in run: tests/environments/test3.xml
+10/25/2012 14:32:41   environment file read: tests/environments/test3.xml
+10/25/2012 14:32:41   banks read from directory: tests/banks/3/
+10/25/2012 14:32:41   read network of contracts: tests/networks/full-3_banks
+10/25/2012 14:32:41   created the network of contracts with 3 nodes and 6 links
+10/25/2012 14:32:41   created the network of exposures with 3 nodes
+10/25/2012 14:35:02 START logging for test bank__update_maturity in run: tests/environments/test3.xml
+10/25/2012 14:35:02   environment file read: tests/environments/test3.xml
+10/25/2012 14:35:02   banks read from directory: tests/banks/3/
+10/25/2012 14:35:02   read network of contracts: tests/networks/full-3_banks
+10/25/2012 14:35:02   created the network of contracts with 3 nodes and 6 links
+10/25/2012 14:35:02   created the network of exposures with 3 nodes
+10/25/2012 14:36:04 START logging for test bank__update_maturity in run: tests/environments/test3.xml
+10/25/2012 14:36:04   environment file read: tests/environments/test3.xml
+10/25/2012 14:36:04   banks read from directory: tests/banks/3/
+10/25/2012 14:36:04   read network of contracts: tests/networks/full-3_banks
+10/25/2012 14:36:04   created the network of contracts with 3 nodes and 6 links
+10/25/2012 14:36:04   created the network of exposures with 3 nodes
+10/25/2012 14:37:19 START logging for test bank__update_maturity in run: tests/environments/test3.xml
+10/25/2012 14:37:19   environment file read: tests/environments/test3.xml
+10/25/2012 14:37:19   banks read from directory: tests/banks/3/
+10/25/2012 14:37:19   read network of contracts: tests/networks/full-3_banks
+10/25/2012 14:37:19   created the network of contracts with 3 nodes and 6 links
+10/25/2012 14:37:19   created the network of exposures with 3 nodes
+10/25/2012 14:38:54 START logging for test bank__update_maturity in run: tests/environments/test3.xml
+10/25/2012 14:38:54   environment file read: tests/environments/test3.xml
+10/25/2012 14:38:54   banks read from directory: tests/banks/3/
+10/25/2012 14:38:54   read network of contracts: tests/networks/full-3_banks
+10/25/2012 14:38:54   created the network of contracts with 3 nodes and 6 links
+10/25/2012 14:38:54   created the network of exposures with 3 nodes
+10/25/2012 14:39:51 START logging for test bank__update_maturity in run: tests/environments/test3.xml
+10/25/2012 14:39:51   environment file read: tests/environments/test3.xml
+10/25/2012 14:39:51   banks read from directory: tests/banks/3/
+10/25/2012 14:39:51   read network of contracts: tests/networks/full-3_banks
+10/25/2012 14:39:51   created the network of contracts with 3 nodes and 6 links
+10/25/2012 14:39:51   created the network of exposures with 3 nodes
+10/25/2012 16:01:04 START logging for test bank__update_maturity in run: tests/environments/test3.xml
+10/25/2012 16:01:04   environment file read: tests/environments/test3.xml
+10/25/2012 16:01:04   banks read from directory: tests/banks/3/
+10/25/2012 16:01:04   read network of contracts: tests/networks/full-3_banks
+10/25/2012 16:01:04   created the network of contracts with 3 nodes and 6 links
+10/25/2012 16:01:04   created the network of exposures with 3 nodes
+10/25/2012 16:07:18 START logging for test bank__update_maturity in run: tests/environments/test3.xml
+10/25/2012 16:07:18   environment file read: tests/environments/test3.xml
+10/25/2012 16:07:18   banks read from directory: tests/banks/3/
+10/25/2012 16:07:18   read network of contracts: tests/networks/full-3_banks
+10/25/2012 16:07:18   created the network of contracts with 3 nodes and 6 links
+10/25/2012 16:07:18   created the network of exposures with 3 nodes
+10/25/2012 16:45:50 START logging for test bank__update_maturity in run: tests/environments/test3.xml
+10/25/2012 16:45:50   environment file read: tests/environments/test3.xml
+10/25/2012 16:45:50   banks read from directory: tests/banks/3/
+10/25/2012 16:45:50   read network of contracts: tests/networks/full-3_banks
+10/25/2012 16:45:50   created the network of contracts with 3 nodes and 6 links
+10/25/2012 16:45:50   created the network of exposures with 3 nodes
+10/25/2012 17:06:08 START logging for test bank__update_maturity in run: tests/environments/test3.xml
+10/25/2012 17:06:08   environment file read: tests/environments/test3.xml
+10/25/2012 17:06:08   banks read from directory: tests/banks/3/
+10/25/2012 17:06:08   read network of contracts: tests/networks/full-3_banks
+10/25/2012 17:06:08   created the network of contracts with 3 nodes and 6 links
+10/25/2012 17:06:08   created the network of exposures with 3 nodes
+10/25/2012 17:10:45 START logging for test bank__update_maturity in run: tests/environments/test3.xml
+10/25/2012 17:10:45   environment file read: tests/environments/test3.xml
+10/25/2012 17:10:45   banks read from directory: tests/banks/3/
+10/25/2012 17:10:45   read network of contracts: tests/networks/full-3_banks
+10/25/2012 17:10:45   created the network of contracts with 3 nodes and 6 links
+10/25/2012 17:10:45   created the network of exposures with 3 nodes
+10/25/2012 17:13:07 START logging for test bank__update_maturity in run: tests/environments/test3.xml
+10/25/2012 17:13:07   environment file read: tests/environments/test3.xml
+10/25/2012 17:13:07   banks read from directory: tests/banks/3/
+10/25/2012 17:13:07   read network of contracts: tests/networks/full-3_banks
+10/25/2012 17:13:07   created the network of contracts with 3 nodes and 6 links
+10/25/2012 17:13:07   created the network of exposures with 3 nodes
+10/25/2012 17:13:53 START logging for test bank__update_maturity in run: tests/environments/test3.xml
+10/25/2012 17:13:53   environment file read: tests/environments/test3.xml
+10/25/2012 17:13:53   banks read from directory: tests/banks/3/
+10/25/2012 17:13:53   read network of contracts: tests/networks/full-3_banks
+10/25/2012 17:13:53   created the network of contracts with 3 nodes and 6 links
+10/25/2012 17:13:53   created the network of exposures with 3 nodes
+10/25/2012 17:14:59 START logging for test bank__update_maturity in run: tests/environments/test3.xml
+10/25/2012 17:14:59   environment file read: tests/environments/test3.xml
+10/25/2012 17:14:59   banks read from directory: tests/banks/3/
+10/25/2012 17:14:59   read network of contracts: tests/networks/full-3_banks
+10/25/2012 17:14:59   created the network of contracts with 3 nodes and 6 links
+10/25/2012 17:14:59   created the network of exposures with 3 nodes
+10/25/2012 17:15:41 START logging for test bank__update_maturity in run: tests/environments/test3.xml
+10/25/2012 17:15:41   environment file read: tests/environments/test3.xml
+10/25/2012 17:15:41   banks read from directory: tests/banks/3/
+10/25/2012 17:15:41   read network of contracts: tests/networks/full-3_banks
+10/25/2012 17:15:41   created the network of contracts with 3 nodes and 6 links
+10/25/2012 17:15:41   created the network of exposures with 3 nodes
+10/25/2012 17:23:05 START logging for test bank__update_maturity in run: tests/environments/test3.xml
+10/25/2012 17:23:05   environment file read: tests/environments/test3.xml
+10/25/2012 17:23:05   banks read from directory: tests/banks/3/
+10/25/2012 17:23:05   read network of contracts: tests/networks/full-3_banks
+10/25/2012 17:23:05   created the network of contracts with 3 nodes and 6 links
+10/25/2012 17:23:05   created the network of exposures with 3 nodes
+10/25/2012 17:43:05 START logging for test bank__update_maturity in run: tests/environments/test3.xml
+10/25/2012 17:43:05   environment file read: tests/environments/test3.xml
+10/25/2012 17:43:05   banks read from directory: tests/banks/3/
+10/25/2012 17:43:05   read network of contracts: tests/networks/full-3_banks
+10/25/2012 17:43:05   created the network of contracts with 3 nodes and 6 links
+10/25/2012 17:43:05   created the network of exposures with 3 nodes
+10/25/2012 17:44:33 START logging for test bank__update_maturity in run: tests/environments/test3.xml
+10/25/2012 17:44:33   environment file read: tests/environments/test3.xml
+10/25/2012 17:44:33   banks read from directory: tests/banks/3/
+10/25/2012 17:44:33   read network of contracts: tests/networks/full-3_banks
+10/25/2012 17:44:33   created the network of contracts with 3 nodes and 6 links
+10/25/2012 17:44:33   created the network of exposures with 3 nodes
+10/25/2012 17:51:57 START logging for test bank__update_maturity in run: tests/environments/test3.xml
+10/25/2012 17:51:57   environment file read: tests/environments/test3.xml
+10/25/2012 17:51:57   banks read from directory: tests/banks/3/
+10/25/2012 17:51:57   read network of contracts: tests/networks/full-3_banks
+10/25/2012 17:51:57   created the network of contracts with 3 nodes and 6 links
+10/25/2012 17:51:57   created the network of exposures with 3 nodes
+10/25/2012 17:54:59 START logging for test bank__update_maturity in run: tests/environments/test3.xml
+10/25/2012 17:54:59   environment file read: tests/environments/test3.xml
+10/25/2012 17:54:59   banks read from directory: tests/banks/3/
+10/25/2012 17:54:59   read network of contracts: tests/networks/full-3_banks
+10/25/2012 17:54:59   created the network of contracts with 3 nodes and 6 links
+10/25/2012 17:54:59   created the network of exposures with 3 nodes
+10/25/2012 17:57:19 START logging for test bank__update_maturity in run: tests/environments/test3.xml
+10/25/2012 17:57:19   environment file read: tests/environments/test3.xml
+10/25/2012 17:57:19   banks read from directory: tests/banks/3/
+10/25/2012 17:57:19   read network of contracts: tests/networks/full-3_banks
+10/25/2012 17:57:19   created the network of contracts with 3 nodes and 6 links
+10/25/2012 17:57:19   created the network of exposures with 3 nodes
+10/25/2012 17:57:44 START logging for test bank__update_maturity in run: tests/environments/test3.xml
+10/25/2012 17:57:44   environment file read: tests/environments/test3.xml
+10/25/2012 17:57:44   banks read from directory: tests/banks/3/
+10/25/2012 17:57:44   read network of contracts: tests/networks/full-3_banks
+10/25/2012 17:57:44   created the network of contracts with 3 nodes and 6 links
+10/25/2012 17:57:44   created the network of exposures with 3 nodes
+10/25/2012 17:58:44 START logging for test bank__update_maturity in run: tests/environments/test3.xml
+10/25/2012 17:58:44   environment file read: tests/environments/test3.xml
+10/25/2012 17:58:44   banks read from directory: tests/banks/3/
+10/25/2012 17:58:44   read network of contracts: tests/networks/full-3_banks
+10/25/2012 17:58:44   created the network of contracts with 3 nodes and 6 links
+10/25/2012 17:58:44   created the network of exposures with 3 nodes
+10/25/2012 18:04:31 START logging for test bank__update_maturity in run: tests/environments/test3.xml
+10/25/2012 18:04:31   environment file read: tests/environments/test3.xml
+10/25/2012 18:04:31   banks read from directory: tests/banks/3/
+10/25/2012 18:04:31   read network of contracts: tests/networks/full-3_banks
+10/25/2012 18:04:31   created the network of contracts with 3 nodes and 6 links
+10/25/2012 18:04:31   created the network of exposures with 3 nodes
+10/25/2012 18:15:42 START logging for test bank__update_maturity in run: tests/environments/test3.xml
+10/25/2012 18:15:42   environment file read: tests/environments/test3.xml
+10/25/2012 18:15:42   banks read from directory: tests/banks/3/
+10/25/2012 18:15:42   read network of contracts: tests/networks/full-3_banks
+10/25/2012 18:15:42   created the network of contracts with 3 nodes and 6 links
+10/25/2012 18:15:42   created the network of exposures with 3 nodes
+10/25/2012 18:15:55 START logging for test bank__update_maturity in run: tests/environments/test3.xml
+10/25/2012 18:15:55   environment file read: tests/environments/test3.xml
+10/25/2012 18:15:55   banks read from directory: tests/banks/3/
+10/25/2012 18:15:55   read network of contracts: tests/networks/full-3_banks
+10/25/2012 18:15:55   created the network of contracts with 3 nodes and 6 links
+10/25/2012 18:15:55   created the network of exposures with 3 nodes
+10/26/2012 09:03:05 START logging for test bank__update_maturity in run: tests/environments/test3.xml
+10/26/2012 09:03:06   environment file read: tests/environments/test3.xml
+10/26/2012 09:03:06   banks read from directory: tests/banks/3/
+10/26/2012 09:03:06   read network of contracts: tests/networks/full-3_banks
+10/26/2012 09:03:06   created the network of contracts with 3 nodes and 6 links
+10/26/2012 09:03:06   created the network of exposures with 3 nodes
+10/26/2012 09:07:10 START logging for test bank__update_maturity in run: tests/environments/test3.xml
+10/26/2012 09:07:10   environment file read: tests/environments/test3.xml
+10/26/2012 09:07:10   banks read from directory: tests/banks/3/
+10/26/2012 09:07:10   read network of contracts: tests/networks/full-3_banks
+10/26/2012 09:07:10   created the network of contracts with 3 nodes and 6 links
+10/26/2012 09:07:10   created the network of exposures with 3 nodes
+10/26/2012 09:19:43 START logging for test bank__update_maturity in run: tests/environments/test3.xml
+10/26/2012 09:19:43   environment file read: tests/environments/test3.xml
+10/26/2012 09:19:43   banks read from directory: tests/banks/3/
+10/26/2012 09:19:43   read network of contracts: tests/networks/full-3_banks
+10/26/2012 09:19:43   created the network of contracts with 3 nodes and 6 links
+10/26/2012 09:19:43   created the network of exposures with 3 nodes
+10/26/2012 10:28:37 START logging for test bank__update_maturity in run: tests/environments/test3.xml
+10/26/2012 10:28:37   environment file read: tests/environments/test3.xml
+10/26/2012 10:28:37   banks read from directory: tests/banks/3/
+10/26/2012 10:28:37   read network of contracts: tests/networks/full-3_banks
+10/26/2012 10:28:37   created the network of contracts with 3 nodes and 6 links
+10/26/2012 10:28:37   created the network of exposures with 3 nodes
+10/26/2012 10:30:17 START logging for test bank__update_maturity in run: tests/environments/test3.xml
+10/26/2012 10:30:17   environment file read: tests/environments/test3.xml
+10/26/2012 10:30:17   banks read from directory: tests/banks/3/
+10/26/2012 10:30:17   read network of contracts: tests/networks/full-3_banks
+10/26/2012 10:30:17   created the network of contracts with 3 nodes and 6 links
+10/26/2012 10:30:17   created the network of exposures with 3 nodes
+10/26/2012 10:32:59 START logging for test bank__update_maturity in run: tests/environments/test3.xml
+10/26/2012 10:32:59   environment file read: tests/environments/test3.xml
+10/26/2012 10:32:59   banks read from directory: tests/banks/3/
+10/26/2012 10:32:59   read network of contracts: tests/networks/full-3_banks
+10/26/2012 10:32:59   created the network of contracts with 3 nodes and 6 links
+10/26/2012 10:32:59   created the network of exposures with 3 nodes
+10/29/2012 08:46:07 START logging for test bank__update_maturity in run: tests/environments/test3.xml
+10/29/2012 08:46:07   environment file read: tests/environments/test3.xml
+10/29/2012 08:46:08   banks read from directory: tests/banks/3/
+10/29/2012 08:46:08   read network of contracts: tests/networks/full-3_banks
+10/29/2012 08:46:08   created the network of contracts with 3 nodes and 6 links
+10/29/2012 08:46:08   created the network of exposures with 3 nodes
+10/30/2012 10:48:08 START logging for test bank__test1 in run: tests/environments/test3.xml
+10/30/2012 10:48:08   environment file read: tests/environments/test3.xml
+10/30/2012 10:48:08   banks read from directory: tests/banks/3/
+10/30/2012 10:48:08   read network of contracts: tests/networks/full-3_banks
+10/30/2012 10:48:08   created the network of contracts with 3 nodes and 6 links
+10/30/2012 10:48:08   created the network of exposures with 3 nodes
+10/30/2012 10:48:08 FINISHED logging for test bank__test1 in run: tests/environments/test3.xml 
+
+10/30/2012 10:51:10 START logging for test updater__updater1 in run: tests/environments/test3.xml
+10/30/2012 10:51:10   environment file read: tests/environments/test3.xml
+10/30/2012 10:51:10   banks read from directory: tests/banks/3/
+10/30/2012 10:51:10   read network of contracts: tests/networks/full-3_banks
+10/30/2012 10:51:10   created the network of contracts with 3 nodes and 6 links
+10/30/2012 10:51:10   created the network of exposures with 3 nodes
+10/30/2012 13:40:21 START logging for test updater__updater1 in run: tests/environments/test3.xml
+10/30/2012 13:40:21   environment file read: tests/environments/test3.xml
+10/30/2012 13:40:21   banks read from directory: tests/banks/3/
+10/30/2012 13:40:21   read network of contracts: tests/networks/full-3_banks
+10/30/2012 13:40:21   created the network of contracts with 3 nodes and 6 links
+10/30/2012 13:40:21   created the network of exposures with 3 nodes
+10/30/2012 13:49:54 START logging for test updater__updater1 in run: tests/environments/test3.xml
+10/30/2012 13:49:54   environment file read: tests/environments/test3.xml
+10/30/2012 13:49:54   banks read from directory: tests/banks/3/
+10/30/2012 13:49:54   read network of contracts: tests/networks/full-3_banks
+10/30/2012 13:49:54   created the network of contracts with 3 nodes and 6 links
+10/30/2012 13:49:54   created the network of exposures with 3 nodes
+10/30/2012 13:50:15 START logging for test updater__updater1 in run: environments/test3.xml
+10/30/2012 13:50:15   environment file read: environments/test3.xml
+10/30/2012 13:51:50 START logging for test updater__updater1 in run: environments/test3.xml
+10/30/2012 13:51:50   environment file read: environments/test3.xml
+10/30/2012 13:51:50   banks read from directory: banks/3/
+10/30/2012 13:51:50   read network of contracts: networks/full-3_banks
+10/30/2012 13:51:50   created the network of contracts with 3 nodes and 6 links
+10/30/2012 13:51:50   created the network of exposures with 3 nodes
+10/30/2012 14:06:21 START logging for test updater__updater1 in run: environments/test3.xml
+10/30/2012 14:06:21   environment file read: environments/test3.xml
+10/30/2012 14:07:24 START logging for test updater__updater1 in run: environments/test3.xml
+10/30/2012 14:07:24   environment file read: environments/test3.xml
+10/30/2012 14:07:24     ERROR: number of configuration files in banks/3/ (=3) does not match numBanks (=50)
+10/30/2012 14:07:24   banks read from directory: banks/3/
+10/30/2012 14:07:24   read network of contracts: networks/full-3_banks
+10/30/2012 14:07:24   created the network of contracts with 3 nodes and 6 links
+10/30/2012 14:07:24   created the network of exposures with 3 nodes
+10/30/2012 14:07:27 START logging for test updater__updater1 in run: environments/test3.xml
+10/30/2012 14:07:27   environment file read: environments/test3.xml
+10/30/2012 14:07:27     ERROR: number of configuration files in banks/3/ (=3) does not match numBanks (=50)
+10/30/2012 14:07:27   banks read from directory: banks/3/
+10/30/2012 14:07:27   read network of contracts: networks/full-3_banks
+10/30/2012 14:07:27   created the network of contracts with 3 nodes and 6 links
+10/30/2012 14:07:27   created the network of exposures with 3 nodes
+10/30/2012 14:12:37 START logging for test updater__updater1 in run: environments/test3.xml
+10/30/2012 14:12:37   environment file read: environments/test3.xml
+10/30/2012 14:12:37     ERROR: number of configuration files in banks/3/ (=3) does not match numBanks (=50)
+10/30/2012 14:12:37   banks read from directory: banks/3/
+10/30/2012 14:12:37   read network of contracts: networks/full-3_banks
+10/30/2012 14:12:37   created the network of contracts with 3 nodes and 6 links
+10/30/2012 14:12:37   created the network of exposures with 3 nodes
+10/30/2012 14:13:16 START logging for test bank__update_maturity in run: environments/test3.xml
+10/30/2012 14:13:16   environment file read: environments/test3.xml
+10/30/2012 14:13:16     ERROR: number of configuration files in banks/3/ (=3) does not match numBanks (=50)
+10/30/2012 14:13:16   banks read from directory: banks/3/
+10/30/2012 14:13:16   read network of contracts: networks/full-3_banks
+10/30/2012 14:13:16   created the network of contracts with 3 nodes and 6 links
+10/30/2012 14:13:16   created the network of exposures with 3 nodes
+10/30/2012 14:20:21 START logging for test bank__update_maturity in run: environments/test3.xml
+10/30/2012 14:20:21   environment file read: environments/test3.xml
+10/30/2012 14:20:21     ERROR: number of configuration files in banks/3/ (=3) does not match numBanks (=50)
+10/30/2012 14:20:21   banks read from directory: banks/3/
+10/30/2012 14:20:21   read network of contracts: networks/full-3_banks
+10/30/2012 14:20:21   created the network of contracts with 3 nodes and 6 links
+10/30/2012 14:20:21   created the network of exposures with 3 nodes
+10/30/2012 14:20:42 START logging for test bank__update_maturity in run: environments/test3.xml
+10/30/2012 14:20:42   environment file read: environments/test3.xml
+10/30/2012 14:20:42     ERROR: number of configuration files in banks/3/ (=3) does not match numBanks (=50)
+10/30/2012 14:20:42   banks read from directory: banks/3/
+10/30/2012 14:20:42   read network of contracts: networks/full-3_banks
+10/30/2012 14:20:42   created the network of contracts with 3 nodes and 6 links
+10/30/2012 14:20:42   created the network of exposures with 3 nodes
+10/30/2012 14:25:26 START logging for test bank__update_maturity in run: environments/test3.xml
+10/30/2012 14:25:26   environment file read: environments/test3.xml
+10/30/2012 14:25:26     ERROR: number of configuration files in banks/3/ (=3) does not match numBanks (=50)
+10/30/2012 14:25:26   banks read from directory: banks/3/
+10/30/2012 14:25:26   read network of contracts: networks/full-3_banks
+10/30/2012 14:25:26   created the network of contracts with 3 nodes and 6 links
+10/30/2012 14:25:26   created the network of exposures with 3 nodes
+10/30/2012 14:25:38 START logging for test bank__update_maturity in run: environments/test3.xml
+10/30/2012 14:25:38   environment file read: environments/test3.xml
+10/30/2012 14:25:38     ERROR: number of configuration files in banks/3/ (=3) does not match numBanks (=50)
+10/30/2012 14:25:38   banks read from directory: banks/3/
+10/30/2012 14:25:38   read network of contracts: networks/full-3_banks
+10/30/2012 14:25:38   created the network of contracts with 3 nodes and 6 links
+10/30/2012 14:25:38   created the network of exposures with 3 nodes
+10/30/2012 14:27:24 START logging for test bank__update_maturity in run: environments/test3.xml
+10/30/2012 14:27:24   environment file read: environments/test3.xml
+10/30/2012 14:27:24     ERROR: number of configuration files in banks/3/ (=3) does not match numBanks (=50)
+10/30/2012 14:27:24   banks read from directory: banks/3/
+10/30/2012 14:27:24   read network of contracts: networks/full-3_banks
+10/30/2012 14:27:24   created the network of contracts with 3 nodes and 6 links
+10/30/2012 14:27:24   created the network of exposures with 3 nodes
+10/30/2012 14:32:24 START logging for test bank__update_maturity in run: environments/test3.xml
+10/30/2012 14:32:24   environment file read: environments/test3.xml
+10/30/2012 14:32:24     ERROR: number of configuration files in banks/3/ (=3) does not match numBanks (=50)
+10/30/2012 14:32:24   banks read from directory: banks/3/
+10/30/2012 14:32:24   read network of contracts: networks/full-3_banks
+10/30/2012 14:32:24   created the network of contracts with 3 nodes and 6 links
+10/30/2012 14:32:24   created the network of exposures with 3 nodes
+10/30/2012 14:33:02 START logging for test bank__update_maturity in run: environments/test3.xml
+10/30/2012 14:33:02   environment file read: environments/test3.xml
+10/30/2012 14:33:02     ERROR: number of configuration files in banks/3/ (=3) does not match numBanks (=50)
+10/30/2012 14:33:02   banks read from directory: banks/3/
+10/30/2012 14:33:02   read network of contracts: networks/full-3_banks
+10/30/2012 14:33:02   created the network of contracts with 3 nodes and 6 links
+10/30/2012 14:33:02   created the network of exposures with 3 nodes
+10/30/2012 14:40:23 START logging for test bank__update_maturity in run: environments/test3.xml
+10/30/2012 14:40:23   environment file read: environments/test3.xml
+10/30/2012 14:40:23     ERROR: number of configuration files in banks/3/ (=3) does not match numBanks (=50)
+10/30/2012 14:40:23   banks read from directory: banks/3/
+10/30/2012 14:40:23   read network of contracts: networks/full-3_banks
+10/30/2012 14:40:23   created the network of contracts with 3 nodes and 6 links
+10/30/2012 14:40:23   created the network of exposures with 3 nodes
+10/30/2012 14:40:52 START logging for test bank__update_maturity in run: environments/test3.xml
+10/30/2012 14:40:52   environment file read: environments/test3.xml
+10/30/2012 14:40:52     ERROR: number of configuration files in banks/3/ (=3) does not match numBanks (=50)
+10/30/2012 14:40:52   banks read from directory: banks/3/
+10/30/2012 14:40:52   read network of contracts: networks/full-3_banks
+10/30/2012 14:40:52   created the network of contracts with 3 nodes and 6 links
+10/30/2012 14:40:52   created the network of exposures with 3 nodes
+10/30/2012 14:41:07 START logging for test bank__update_maturity in run: environments/test3.xml
+10/30/2012 14:41:07   environment file read: environments/test3.xml
+10/30/2012 14:41:07     ERROR: number of configuration files in banks/3/ (=3) does not match numBanks (=50)
+10/30/2012 14:41:07   banks read from directory: banks/3/
+10/30/2012 14:41:07   read network of contracts: networks/full-3_banks
+10/30/2012 14:41:07   created the network of contracts with 3 nodes and 6 links
+10/30/2012 14:41:07   created the network of exposures with 3 nodes
+10/30/2012 14:44:22 START logging for test bank__update_maturity in run: environments/test3.xml
+10/30/2012 14:44:22   environment file read: environments/test3.xml
+10/30/2012 14:44:22     ERROR: number of configuration files in banks/3/ (=3) does not match numBanks (=50)
+10/30/2012 14:44:22   banks read from directory: banks/3/
+10/30/2012 14:44:22   read network of contracts: networks/full-3_banks
+10/30/2012 14:44:22   created the network of contracts with 3 nodes and 6 links
+10/30/2012 14:44:22   created the network of exposures with 3 nodes
+10/30/2012 14:50:55 START logging for test bank__update_maturity in run: environments/test3.xml
+10/30/2012 14:50:55   environment file read: environments/test3.xml
+10/30/2012 14:50:55     ERROR: number of configuration files in banks/3/ (=3) does not match numBanks (=50)
+10/30/2012 14:50:55   banks read from directory: banks/3/
+10/30/2012 14:50:55   read network of contracts: networks/full-3_banks
+10/30/2012 14:50:55   created the network of contracts with 3 nodes and 6 links
+10/30/2012 14:50:55   created the network of exposures with 3 nodes
+10/30/2012 14:51:19 START logging for test bank__update_maturity in run: environments/test3.xml
+10/30/2012 14:51:19   environment file read: environments/test3.xml
+10/30/2012 14:51:19     ERROR: number of configuration files in banks/3/ (=3) does not match numBanks (=50)
+10/30/2012 14:51:19   banks read from directory: banks/3/
+10/30/2012 14:51:19   read network of contracts: networks/full-3_banks
+10/30/2012 14:51:19   created the network of contracts with 3 nodes and 6 links
+10/30/2012 14:51:19   created the network of exposures with 3 nodes
